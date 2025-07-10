@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Lab Introduction"
+title: "ABOUT"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Lab Introduction
 ------
 The Intelligent Interaction Group (IIGROUP) is affiliated with Tsinghua Shenzhen International Graduate School, Tsinghua University. Our vision is to build intelligent systems that can interact with humans.  
 

@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "IIGROUP",
+    "email": "",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://iigroup.github.io",
+    "summary": "More Intelligent, more interactive.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Lishui Rd, University Town of Shenzhen, Nanshan District",
+      "postalCode": "518055",
+      "city": "Shenzhen, Guangdong Province",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [

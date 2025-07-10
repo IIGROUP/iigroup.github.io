@@ -26,7 +26,10 @@ author:
   name             : "IIGROUP"
   pronouns         : # example: "she/her"  
   bio              : "More intelligent, more interactive."
-  location         : "Lishui Rd, University Town of Shenzhen, Nanshan District, Shenzhen, Guangdong Province, China 518055"
+  location         : "Lishui Rd, University Town \
+                      of Shenzhen, Nanshan District, \
+                      Shenzhen, Guangdong Province, \
+                      China 518055"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : #"none@example.org" 

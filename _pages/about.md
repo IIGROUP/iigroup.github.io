@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "ABOUT"
+title: "HOME"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 Lab Introduction

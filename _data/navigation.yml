@@ -22,6 +22,9 @@ main:
     
   - title: "COLLABORATORS"
     url: /collaborators/
+  
+  - title: "ABOUT"
+    url: /about/
         
   # - title: "Blog Posts"
   #   url: /year-archive/

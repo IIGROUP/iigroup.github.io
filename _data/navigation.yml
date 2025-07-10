@@ -10,9 +10,9 @@
 main:
   - title: "MEMBERS"
     url: /members/
-    sub:
-      - title: "News"
-        url: /news/
+    # sub:
+    #   - title: "News"
+    #     url: /news/
 
   - title: "RESEARCH"
     url: /research/    

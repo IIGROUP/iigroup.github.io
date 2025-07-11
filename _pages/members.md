@@ -1,12 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: "Members"
+permalink: /members/
 author_profile: true
-redirect_from: 
-  - /members
+redirect_from:
+  - /members.html
 ---
 
-A Team Leader
+Team Leader
 ------
 Yujiu Yang: Professor
 

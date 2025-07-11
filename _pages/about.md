@@ -11,6 +11,8 @@ Yujiu Yang
 ------
 Professor, PhD/Master Advisor
 
+<img src="Team Leader.png" width="168" height="240" div align=right>
+
 Dr. Yujiu Yang is currently a professor at Tsinghua Shenzhen International Graduate School, Tsinghua University. He received his Ph.D. degree from the Institute of Automation, the Chinese Academy of Sciences.  His research interests include Machine learning, basic research in artificial intelligence and its applications in natural language processing, visual content creation, and image understanding. 
 
 Selected Publications

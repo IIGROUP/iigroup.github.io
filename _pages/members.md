@@ -9,7 +9,7 @@ redirect_from:
   - /members.html
 ---
 
-Team Leader
+A Team Leader
 ------
 Yujiu Yang: Professor
 

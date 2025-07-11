@@ -15,7 +15,7 @@ Students
 ------
 Before 2020, our team members are primarily from the Department of Automation and Open Faculty for Innovation, Education, Science, Technology, and Art (Open FIESTA).  Since 2020,  our Group has been affiliated with Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, and members are from two master's programs: Big Data Engineering and Engineering of Artificial Intelligence in Electronic Information, and two master's programs at Open FIESTA: BIO³ (Bio-Nano-Info)  and Internet + Innovation Design (IID).  
 
-### 2023
+## 2023
 
 Tianle Gu:   Master. Topic: AI safety. (2023- Now)
 
@@ -38,7 +38,7 @@ Haokang Zhang:   Master. Topic: Computer Vision. (2023- Now)
 Yiyao Yu:   Master. Topic: Natural Language  Processing. (2023- Now)
 
 
-### 2022
+## 2022
 
 Gongye Liu:   Master. Topic: Computer Vision. (2022- Now)
 
@@ -69,7 +69,7 @@ Runming Yang:   Master. Topic: Natural Language  Processing. (2022- Now)
 Chufan Shi:   Master. Topic: Natural Language  Processing. (2022- Now)
 
 
-### 2021
+## 2021
 
 Lu Tan:   Master. Topic:  Natural Language  Processing. (2021- 2024,  currently © Baidu)
 
@@ -98,7 +98,7 @@ Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  cur
 Siheng Li: Master. Topic:  Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)
 
 
-### 2020
+## 2020
 
 Qingyan Bai: Master,  Big Data Engineering. Topic: Image Synthesis and Restoration. (2020- 2023,  currently Ph.D student © HKUST)
 
@@ -123,7 +123,7 @@ Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Ass
 Jiaqi Sun: Master,  Open FIESTA. Topic: Graph Neural Networks. (2020- 2023, currently © Carnegie Mellon University )
 
 
-### 2019
+## 2019
 
 Gengcong Yang: Master in Control Engineering, Department of Automation. Topic: Scene Graph Generation. (2019- 2022,  currently at ByteDance.com )
 
@@ -144,7 +144,7 @@ Yutong Wang: Master,  Open FIESTA. Topic: Information Extraction. (2019- 2022,  
 Jieqiong Lei: Master,  Open FIESTA. Topic:  Medical molecular prediction. (2019- 2022, currently at Alibaba)
 
 
-### Previous Students with Master's Degree
+## Previous Students with Master's Degree
 
 Shiyun Cao: Master in Control Engineering, Department of Automation. Thesis: Research and Application of Text Summarization. (2018- 2021, currently at  China Universal Asset Management )
 

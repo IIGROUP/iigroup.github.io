@@ -18,7 +18,6 @@ Research Areas
 
 News
 ------
-<table><tr><td bgcolor="gray">
 > - [2024/10] Five papers are accepted to NeurIPS 2024. Congratulations to Zhibin Gou, Chufan Shi, Cheng Yang, Tianle Gu, Xinchen Zhang and Yiming Ren! 
 > 
 > - [2024/9] Six papers (5 main conferences, 1 Findings) have been accepted to EMNLP 2024. Congratulations to Tian Liang, Ruilin Luo, Zhibin Gou, Chufan Shi, and Xinyu Zhu! 
@@ -80,4 +79,3 @@ News
 > - [2022/12] Congratulations to Zhibin Gou and Qinyan Guo! They won the championships in NeurIPS2022 IGLU Challenges -NLP Task!
 > 
 > - [2022/10] One paper is accepted to WSDM 2023. Congratulations to Taiqiang Wu! 
-</td></tr></table>

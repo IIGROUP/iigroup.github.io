@@ -35,10 +35,10 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-members_nav:
-  - title: "Overview"
-    url: /members/
-  - title: "Team"
-    url: /members/team/
-  - title: "Alumni"
-    url: /members/alumni/
+# members_nav:
+#   - title: "Overview"
+#     url: /members/
+#   - title: "Team"
+#     url: /members/team/
+#   - title: "Alumni"
+#     url: /members/alumni/

@@ -1,15 +1,13 @@
 ---
-layout: single
+layout: archive-single
 title: "Members"
 permalink: /members/
 author_profile: true
-sidebar:
-  nav: members_nav
 redirect_from:
   - /members.html
 ---
 
-Team Leader
+A Team Leader
 ------
 Yujiu Yang: Professor
 
@@ -17,11 +15,11 @@ Students
 ------
 Before 2020, our team members are primarily from the Department of Automation and Open Faculty for Innovation, Education, Science, Technology, and Art (Open FIESTA).  Since 2020,  our Group has been affiliated with Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, and members are from two master's programs: Big Data Engineering and Engineering of Artificial Intelligence in Electronic Information, and two master's programs at Open FIESTA: BIO³ (Bio-Nano-Info)  and Internet + Innovation Design (IID).  
 
-**2023**
+# 2023
 
-Tianle Gu:   Master. Topic: AI safety. (2023- Now)
+## Tianle Gu:   Master. Topic: AI safety. (2023- Now)
 
-Lei Ke:   Master. Topic: Computer Vision. (2023- Now)
+### Lei Ke:   Master. Topic: Computer Vision. (2023- Now)
 
 Haolin Li:   Master. Topic: Natural Language  Processing. (2023- Now)
 

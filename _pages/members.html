@@ -1,12 +1,14 @@
 ---
-layout: single
+layout: archive-single
 title: "Members"
 permalink: /members/
 author_profile: true
-sidebar:
-  nav: members_nav
 ---
 
 {% include base_path %}
+
+{% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}
 
 {{content}}

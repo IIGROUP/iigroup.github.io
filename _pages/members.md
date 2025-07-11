@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Members"
 permalink: /members/
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
   - /members.html
 ---
 
-A Team Leader
+Team Leader
 ------
 Yujiu Yang: Professor
 

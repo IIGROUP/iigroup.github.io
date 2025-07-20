@@ -14,11 +14,11 @@ main:
   - title: "RESEARCH"
     url: /research/    
 
-  - title: "AWARDS"
-    url: /awards/    
+  # - title: "AWARDS"
+  #   url: /awards/    
     
-  - title: "COLLABORATORS"
-    url: /collaborators/
+  # - title: "COLLABORATORS"
+  #   url: /collaborators/
   
   - title: "ABOUT"
     url: /about/

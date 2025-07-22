@@ -9,6 +9,28 @@ redirect_from:
 
 Projects
 ------
+## 🔧 Projects
+
+<div class="projects-container">
+  <a class="project-card" href="https://example.com/xyz" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '/assets/images/xyz-thumb.png' | relative_url }}" alt="Project XYZ">
+    <div class="project-info">
+      <h3>Awesome Project XYZ</h3>
+      <p>该项目的简要描述，突出功能与亮点。</p>
+    </div>
+  </a>
+
+  <a class="project-card" href="https://example.com/abc" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '/assets/images/abc-thumb.png' | relative_url }}" alt="Project ABC">
+    <div class="project-info">
+      <h3>Another Project ABC</h3>
+      <p>另一个项目说明…</p>
+    </div>
+  </a>
+
+  <!-- 可继续添加更多项目卡片 -->
+</div>
+
 
 Publications
 ------

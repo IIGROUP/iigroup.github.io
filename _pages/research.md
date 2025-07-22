@@ -12,11 +12,11 @@ Projects
 ## 🔧 Projects
 
 <div class="projects-container">
-  <a class="project-card" href="https://example.com/xyz" target="_blank" rel="noopener">
-    <img class="project-thumb" src="{{ '/assets/images/xyz-thumb.png' | relative_url }}" alt="Project XYZ">
+  <a class="project-card" href="https://github.com/IIGROUP/MM-CelebA-HQ-Dataset" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '../images/MM-CelebA-HQ-Dataset.png' | relative_url }}" alt="Project XYZ">
     <div class="project-info">
-      <h3>Awesome Project XYZ</h3>
-      <p>该项目的简要描述，突出功能与亮点。</p>
+      <h3>Multi-Modal-CelebA-HQ</h3>
+      <p>Multi-Modal-CelebA-HQ (MM-CelebA-HQ) is a dataset containing 30,000 high-resolution face images selected from CelebA, following CelebA-HQ. Each image in the dataset is accompanied by a semantic mask, sketch, descriptive text, and an image with a transparent background.</p>
     </div>
   </a>
 

@@ -48,7 +48,7 @@
   margin: 2rem 0;
 }
 .project-card {
-  background: #f1f1f1;
+  background: #f9f9f9;
   border-radius: 6px;
   overflow: hidden;
   text-decoration: none !important;
@@ -66,7 +66,7 @@
 .project-thumb {
   width: 80px;
   height: auto;
-  object-fit: contain;
+  object-fit: cover;
 }
 .project-info {
   padding: 0.75rem;

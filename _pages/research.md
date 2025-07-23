@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-Projects
+💡 Projects
 ------
 
 <div class="projects-container">
@@ -30,8 +30,12 @@ Projects
   <!-- 可继续添加更多项目卡片 -->
 </div>
 
+🏆 Awards
+------
+2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+<img src="../images/NeurIPS Best Paper Runner-up.png" width="329.2" height="256" div align=center>
 
-Publications
+📕 Publications
 ------
 **2024**
 

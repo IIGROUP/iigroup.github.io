@@ -9,7 +9,6 @@ redirect_from:
 
 Projects
 ------
-## 🔧 Projects
 
 <div class="projects-container">
   <a class="project-card" href="https://github.com/IIGROUP/MM-CelebA-HQ-Dataset" target="_blank" rel="noopener">
@@ -20,11 +19,11 @@ Projects
     </div>
   </a>
 
-  <a class="project-card" href="https://example.com/abc" target="_blank" rel="noopener">
-    <img class="project-thumb" src="{{ '/assets/images/abc-thumb.png' | relative_url }}" alt="Project ABC">
+  <a class="project-card" href="https://github.com/IIGROUP/MANIQA" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '../images/MANIQA.png' | relative_url }}" alt="Project ABC">
     <div class="project-info">
-      <h3>Another Project ABC</h3>
-      <p>另一个项目说明…</p>
+      <h3>MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment</h3>
+      <p>MANIQA is a ViT‑based no‑reference image quality assessment model using advanced attention blocks and a patch‑weighted prediction scheme, outperforming state‑of‑the‑art methods on multiple datasets and winning the NTIRE 2022 NR‑IQA challenge.</p>
     </div>
   </a>
 

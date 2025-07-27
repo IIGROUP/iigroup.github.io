@@ -9,7 +9,16 @@ redirect_from:
 
 Team Leader
 ------
-Yujiu Yang: Professor
+<div class="people-grid no-divider">
+  <!-- 卡片 1 -->
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/Team Leader.png' | relative_url }}" alt="Team Leader">
+    <div class="person-info">
+      <a href="https://www.sigs.tsinghua.edu.cn/yyj/list.htm" target="_blank" class="person-name">Yujiu Yang</a>
+      <p class="person-area">Professor</p>
+    </div>
+  </div>
+</div>
 
 Students
 ------

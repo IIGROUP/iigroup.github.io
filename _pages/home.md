@@ -18,28 +18,28 @@ Research Areas
 <div class="area-grid">
   <!-- 卡片 1 -->
   <div class="area-card">
-    <img class="area-thumb" src="{{ '/assets/images/area1.png' | relative_url }}" alt="Area 1">
+    <img class="area-thumb" src="{{ '../images/area1.png' | relative_url }}" alt="Area 1">
     <div class="area-info">
-      <h4>Area Name 1</h4>
-      <p>Brief description of research area 1.</p>
+      <h4>Fundamental AI Methods</h4>
+      <p>Large-scale model training, interpretability, AI safety, deep learning algorithms.</p>
     </div>
   </div>
 
   <!-- 卡片 2 -->
   <div class="area-card">
-    <img class="area-thumb" src="{{ '/assets/images/area2.png' | relative_url }}" alt="Area 2">
+    <img class="area-thumb" src="{{ '../images/area2.png' | relative_url }}" alt="Area 2">
     <div class="area-info">
-      <h4>Area Name 2</h4>
-      <p>Brief description of research area 2.</p>
+      <h4>Natural Language Processing & Dialogue</h4>
+      <p>Controllable and empathetic dialogue systems, sentiment-aware text analysis, language understanding.</p>
     </div>
   </div>
 
   <!-- 卡片 3 -->
   <div class="area-card">
-    <img class="area-thumb" src="{{ '/assets/images/area3.png' | relative_url }}" alt="Area 3">
+    <img class="area-thumb" src="{{ '../images/area3.png' | relative_url }}" alt="Area 3">
     <div class="area-info">
-      <h4>Area Name 3</h4>
-      <p>Brief description of research area 3.</p>
+      <h4>Vision and Generative Content Creation</h4>
+      <p>Generative adversarial networks (GANs) for image/face synthesis, sketch-to-image translation, visual editing.</p>
     </div>
   </div>
 

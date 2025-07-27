@@ -81,3 +81,44 @@
   font-size: 0.7rem;
   color: rgb(104, 104, 104);
 }
+
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;  /* 无内间距 */
+  background-color: #ddd;  /* 整行浅灰背景作为分隔线 */
+}
+
+.area-grid > .area-card {
+  background-color: #fff;
+  border-left: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  padding: 1rem;
+}
+.area-grid > .area-card:nth-child(3n + 1) {
+  border-left: none;  /* 每行第一个卡片左边不画线 */
+}
+.area-grid > .area-card:nth-child(-n+3) {
+  border-top: none;   /* 顶行卡片上边不画线 */
+}
+
+.area-thumb {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1; /* 始终正方形 */
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+}
+
+.area-info h4 {
+  margin: 0.5rem 0 0.25rem;
+  font-size: 1.2rem;
+}
+
+.area-info p {
+  margin: 0;
+  font-size: 1rem;
+  color: #555;
+}
+

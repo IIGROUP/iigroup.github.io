@@ -15,6 +15,36 @@ Our current interests in intelligent interactive tasks include pre-training and 
 
 Research Areas
 ------
+<div class="area-grid">
+  <!-- 卡片 1 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '/assets/images/area1.png' | relative_url }}" alt="Area 1">
+    <div class="area-info">
+      <h4>Area Name 1</h4>
+      <p>Brief description of research area 1.</p>
+    </div>
+  </div>
+
+  <!-- 卡片 2 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '/assets/images/area2.png' | relative_url }}" alt="Area 2">
+    <div class="area-info">
+      <h4>Area Name 2</h4>
+      <p>Brief description of research area 2.</p>
+    </div>
+  </div>
+
+  <!-- 卡片 3 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '/assets/images/area3.png' | relative_url }}" alt="Area 3">
+    <div class="area-info">
+      <h4>Area Name 3</h4>
+      <p>Brief description of research area 3.</p>
+    </div>
+  </div>
+
+  <!-- 可继续添加至共6个 -->
+</div>
 
 News
 ------

@@ -17,11 +17,42 @@ Before 2020, our team members are primarily from the Department of Automation an
 
 **2023**
 
-Tianle Gu:   Master. Topic: AI safety. (2023- Now)
+<div class="people-grid">
+  <!-- 卡片 1 -->
+  <div class="person-card">
+    <a href="https://example.com/person1" target="_blank" class="person-link">
+      <img class="person-photo" src="{{ '../images/person1.jpg' | relative_url }}" alt="Person 1">
+      <div class="person-info">
+        <h4>Tianle Gu</h4>
+        <p>Master. Topic: AI safety. (2023- Now)</p>
+      </div>
+    </a>
+  </div>
 
-Lei Ke:   Master. Topic: Computer Vision. (2023- Now)
+  <!-- 卡片 2 -->
+  <div class="person-card">
+    <a href="https://example.com/person2" target="_blank" class="person-link">
+      <img class="person-photo" src="{{ '../images/person2.jpg' | relative_url }}" alt="Person 2">
+      <div class="person-info">
+        <h4>Lei Ke</h4>
+        <p>Master. Topic: Computer Vision. (2023- Now)</p>
+      </div>
+    </a>
+  </div>
 
-Haolin Li:   Master. Topic: Natural Language  Processing. (2023- Now)
+  <!-- 卡片 3 -->
+  <div class="person-card">
+    <a href="https://example.com/person3" target="_blank" class="person-link">
+      <img class="person-photo" src="{{ '../images/person3.jpg' | relative_url }}" alt="Person 3">
+      <div class="person-info">
+        <h4>Haolin Li</h4>
+        <p>Master. Topic: Natural Language  Processing. (2023- Now)</p>
+      </div>
+    </a>
+  </div>
+
+  <!-- 添加第4‑6位成员，补满第二行 -->
+</div>
 
 Yuxuan Lin:   Master. Topic: Computer Vision. (2023- Now)
 

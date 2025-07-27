@@ -41,6 +41,7 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Projects */
 .projects-container {
   display: flex;
   flex-wrap: wrap;
@@ -82,6 +83,7 @@
   color: rgb(104, 104, 104);
 }
 
+/* Research Areas */
 .area-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -94,7 +96,7 @@
   border-left: 1px solid #ddd;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  text-align: justify;
+  text-align: center;
   padding: 1rem;
 }
 .area-grid > .area-card:nth-child(3n + 1) {
@@ -123,5 +125,57 @@
   margin: 0;
   font-size: 0.7rem;
   color: rgb(104, 104, 104);
+  text-align: left !important;
 }
 
+/* People */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  margin: 2rem 0;
+}
+
+.person-card {
+  border-left: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  padding: 1rem;
+}
+
+.people-grid > .person-card:nth-child(3n + 1) {
+  border-left: none;
+}
+
+.people-grid > .person-card:nth-child(-n+3) {
+  border-top: none;
+}
+
+.person-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 0.75rem;
+}
+
+.person-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.person-link h4, .person-link p {
+  margin: 0;
+}
+
+.person-link h4 {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.person-link p {
+  font-size: 0.95rem;
+  color: #555;
+}

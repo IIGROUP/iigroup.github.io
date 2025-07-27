@@ -128,27 +128,17 @@
   text-align: left !important;
 }
 
-/* People */
+/* Members */
 .people-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0;
-  margin: 2rem 0;
+  gap: 1rem; /* 卡片之间要有间距 */
 }
 
 .person-card {
-  border-left: 1px solid #ddd;
-  border-top: 1px solid #ddd;
   text-align: center;
   padding: 1rem;
-}
-
-.people-grid > .person-card:nth-child(3n + 1) {
-  border-left: none;
-}
-
-.people-grid > .person-card:nth-child(-n+3) {
-  border-top: none;
+  /* 不再设置 border，所以不会出现分割线 */
 }
 
 .person-photo {
@@ -158,24 +148,23 @@
   object-position: center;
   border-radius: 50%;
   display: block;
-  margin: 0 auto 0.75rem;
+  margin: 0 auto 0.5rem;
 }
 
-.person-link {
-  text-decoration: none;
+.person-name {
+  font-size: 0.9rem;
+  font-weight: bold;
   color: inherit;
+  text-decoration: none;
+  color: rgb(82, 82, 82);
 }
 
-.person-link h4, .person-link p {
-  margin: 0;
+.person-name:hover {
+  text-decoration: underline; /* 若想 hover 有 underline 可以加 */
 }
 
-.person-link h4 {
-  font-size: 1.1rem;
-  margin-bottom: 0.25rem;
-}
-
-.person-link p {
-  font-size: 0.95rem;
-  color: #555;
+.person-area {
+  margin-top: 0.25rem;
+  font-size: 0.7rem;
+  color: rgb(104, 104, 104);
 }

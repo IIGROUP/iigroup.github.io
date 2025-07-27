@@ -43,6 +43,33 @@ Research Areas
     </div>
   </div>
 
+  <!-- 卡片 4 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '../images/area4.png' | relative_url }}" alt="Area 4">
+    <div class="area-info">
+      <h4>Video Understanding & Spatiotemporal Analysis</h4>
+      <p>Video object tracking, dynamic memory networks, temporal segmentation, spectral filtering.</p>
+    </div>
+  </div>
+
+  <!-- 卡片 5 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '../images/area5.png' | relative_url }}" alt="Area 5">
+    <div class="area-info">
+      <h4>Multimodal Intelligence & Human-Centric AI</h4>
+      <p>Vision-language fusion, model transparency, human-AI interaction and collaborative system design.</p>
+    </div>
+  </div>
+
+  <!-- 卡片 6 -->
+  <div class="area-card">
+    <img class="area-thumb" src="{{ '../images/area6.png' | relative_url }}" alt="Area 6">
+    <div class="area-info">
+      <h4>Embodied and Interactive AI Agents</h4>
+      <p>Integration of perception and action, reinforcement learning in physical and simulated environments.</p>
+    </div>
+  </div>
+
   <!-- 可继续添加至共6个 -->
 </div>
 

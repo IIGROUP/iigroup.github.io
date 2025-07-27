@@ -93,6 +93,7 @@
   background-color: #fff;
   border-left: 1px solid #ddd;
   border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
   text-align: center;
   padding: 1rem;
 }
@@ -101,6 +102,9 @@
 }
 .area-grid > .area-card:nth-child(-n+3) {
   border-top: none;   /* 顶行卡片上边不画线 */
+}
+.area-grid > .area-card:nth-child(-n+3) {
+  border-top: none;   /* 顶行卡片下边不画线 */
 }
 
 .area-thumb {
@@ -113,12 +117,13 @@
 
 .area-info h4 {
   margin: 0.5rem 0 0.25rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .area-info p {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: #555;
+  text-align: left !important;
 }
 

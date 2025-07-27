@@ -14,7 +14,6 @@ The Intelligent Interaction Group (IIGROUP) is affiliated with Tsinghua Shenzhen
 Our current interests in intelligent interactive tasks include pre-training and post-training optimization techniques for large language models, reasoning, multimodal understanding and analysis, and generative AI technology. With applications including computer vision, natural language processing, AI safety, ML interpretability • and others.
 
 Research Areas
-------
 <div class="area-grid">
   <!-- 卡片 1 -->
   <div class="area-card">

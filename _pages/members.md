@@ -89,7 +89,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/xiangwentao.png' | relative_url }}" alt="Wentao Xiang">
     <div class="person-info">
-      <a href="https://scholar.google.com/citations?user=dNCLGEEAAAAJ&hl=en" target="_blank" class="person-name">Wentao Xiang</a>
+      <a href="https://github.com/xiangwentao666" target="_blank" class="person-name">Wentao Xiang</a>
       <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
     </div>
   </div>

@@ -31,44 +31,88 @@ Before 2020, our team members are primarily from the Department of Automation an
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Person 1">
     <div class="person-info">
-      <a href="https://example.com/person1" target="_blank" class="person-name">Tianle Gu</a>
+      <span class="person-name">Tianle Gu</span>
       <p class="person-area">Master. Topic: AI safety. (2023- Now)</p>
     </div>
   </div>
 
   <!-- 卡片 2 -->
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person2.png' | relative_url }}" alt="Person 2">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Person 2">
     <div class="person-info">
-      <a href="https://example.com/person2" target="_blank" class="person-name">Lei Ke</a>
+      <span class="person-name">Lei Ke</span>
       <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
     </div>
   </div>
 
   <!-- 卡片 3 -->
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person3.png' | relative_url }}" alt="Person 3">
+    <img class="person-photo" src="{{ '../images/members image/lihaoling.png' | relative_url }}" alt="Haoling Li">
     <div class="person-info">
-      <a href="https://example.com/person3" target="_blank" class="person-name">Haolin Li</a>
+      <a href="https://scholar.google.com/citations?user=uQm86UUAAAAJ&hl=en&oi=ao" target="_blank" class="person-name">Haoling Li</a>
       <p class="person-area">Master. Topic: Natural Language  Processing. (2023- Now)</p>
     </div>
   </div>
-  <!-- 如需更多成员，继续添加到共6个 -->
+  
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/linyuxuan.png' | relative_url }}" alt="Yuxuan Lin">
+    <div class="person-info">
+      <span class="person-name">Yuxuan Lin</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/linzicheng.png' | relative_url }}" alt="Zicheng Lin">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=DTEfT5EAAAAJ&hl=en" target="_blank" class="person-name">Zicheng Lin</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Zhuoyan Luo">
+    <div class="person-info">
+      <span class="person-name">Zhuoyan Luo</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/luoruilin.png' | relative_url }}" alt="Ruilin Luo">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=dNCLGEEAAAAJ&hl=en" target="_blank" class="person-name">Ruilin Luo</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/xiangwentao.png' | relative_url }}" alt="Wentao Xiang">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=dNCLGEEAAAAJ&hl=en" target="_blank" class="person-name">Wentao Xiang</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Haokang Zhang">
+    <div class="person-info">
+      <span class="person-name">Haokang Zhang</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yuyiyao.png' | relative_url }}" alt="Yiyao Yu">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=RxIMGGIAAAAJ" target="_blank" class="person-name">Yiyao Yu</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2023- Now)</p>
+    </div>
+  </div>
+
+
 </div>
 
-Yuxuan Lin:   Master. Topic: Computer Vision. (2023- Now)
-
-Zicheng Lin:   Master. Topic: Natural Language  Processing. (2023- Now)
-
-Zhuoyan Luo:   Master. Topic: Computer Vision. (2023- Now)
-
-Ruilin Luo:   Master. Topic: Natural Language  Processing. (2023- Now)
-
-Wentao Xiang:   Master. Topic: Computer Vision. (2023- Now)
-
-Haokang Zhang:   Master. Topic: Computer Vision. (2023- Now)
-
-Yiyao Yu:   Master. Topic: Natural Language  Processing. (2023- Now)
 
 
 **2022**
@@ -87,7 +131,7 @@ Hao Wen:   Master. Topic: Computer Vision. (2022- Now)
 
 Cong Wei:   Master. Topic: Computer Vision. (2022- Now)
 
-Chenming Shang:   Master. Topic: Computer Vision. (2022- Now)
+Chenming Shang:   Master. Topic: Computer Vision. (2022- Now)Chenmingshang.png
 
 Yifan Wang:   Master. Topic: Natural Language  Processing. (2022- Now)
 

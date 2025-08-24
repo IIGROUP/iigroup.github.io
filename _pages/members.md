@@ -29,7 +29,7 @@ Before 2020, our team members are primarily from the Department of Automation an
 <div class="people-grid no-divider">
   <!-- 卡片 1 -->
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Person 1">
+    <img class="person-photo" src="{{ '../images/members image/gutianle.jpg' | relative_url }}" alt="Tianle Gu">
     <div class="person-info">
       <span class="person-name">Tianle Gu</span>
       <p class="person-area">Master. Topic: AI safety. (2023- Now)</p>

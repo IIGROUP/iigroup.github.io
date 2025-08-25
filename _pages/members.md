@@ -38,7 +38,7 @@ Before 2020, our team members are primarily from the Department of Automation an
 
   <!-- 卡片 2 -->
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Person 2">
+    <img class="person-photo" src="{{ '../images/members image/kelei.png' | relative_url }}" alt="Lei Ke">
     <div class="person-info">
       <span class="person-name">Lei Ke</span>
       <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
@@ -71,9 +71,9 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Zhuoyan Luo">
+    <img class="person-photo" src="{{ '../images/members image/luozhuoyan.png' | relative_url }}" alt="Zhuoyan Luo">
     <div class="person-info">
-      <span class="person-name">Zhuoyan Luo</span>
+      <a href="https://robertluo1.github.io/" target="_blank" class="person-name">Zhuoyan Luo</a>
       <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
     </div>
   </div>
@@ -110,40 +110,136 @@ Before 2020, our team members are primarily from the Department of Automation an
     </div>
   </div>
 
-
 </div>
+  
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/.png' | relative_url }}" alt="">
+    <div class="person-info">
+      <a href="" target="_blank" class="person-name"></a>
+      <p class="person-area">Master. Topic:  (2022- 2025)</p>
+    </div>
+  </div>
 
-
+  <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="">
+  <span class="person-name"></span>
 
 **2022**
 
-Gongye Liu:   Master. Topic: Computer Vision. (2022- Now)
+<div class="people-grid no-divider">
 
-Haoze Sun:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liugongye.png' | relative_url }}" alt="Gongye Liu">
+    <div class="person-info">
+      <a href="https://gongyeliu.github.io/" target="_blank" class="person-name">Gongye Liu</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Tianhe Wu:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Haoze Sun">
+    <div class="person-info">
+      <span class="person-name">Haoze Sun</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>  
 
-Xinzhe Ni:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Tianhe Wu">
+    <div class="person-info">
+      <span class="person-name">Tianhe Wu</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div> 
 
-Jixiang Sun:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/nixinzhe.png' | relative_url }}" alt="Xinzhe Ni">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=TB0b58kAAAAJ&hl=en" target="_blank" class="person-name">Xinzhe Ni</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Hao Wen:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Jixiang Sun">
+    <div class="person-info">
+      <span class="person-name">Jixiang Sun</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Cong Wei:   Master. Topic: Computer Vision. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wenhao.png' | relative_url }}" alt="Hao Wen">
+    <div class="person-info">
+      <span class="person-name">Hao Wen</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Chenming Shang:   Master. Topic: Computer Vision. (2022- Now)Chenmingshang.png
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Cong Wei">
+    <div class="person-info">
+      <span class="person-name">Cong Wei</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Yifan Wang:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/shangchenming.png' | relative_url }}" alt="Chenming Shang">
+    <div class="person-info">
+      <a href="https://helloscm.github.io/" target="_blank" class="person-name">Chenming Shang</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
 
-Zhibin Gou:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wangyifan.png' | relative_url }}" alt="Yifan Wang">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=plGpmz0AAAAJ&hl=zh-CN" target="_blank" class="person-name">Yifan Wang</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
 
-Qingyan Guo:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/gouzhibin.png' | relative_url }}" alt="Zhibin Gou">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=jTMOma8AAAAJ" target="_blank" class="person-name">Zhibin Gou</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
 
-Zeming Zheng:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/guoqingyan.png' | relative_url }}" alt="Qingyan Guo">
+    <div class="person-info">
+      <a href="http://beeevita.github.io" target="_blank" class="person-name">Qingyan Guo</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
 
-Runming Yang:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Zeming Zheng">
+    <div class="person-info">
+      <span class="person-name">Zeming Zheng</span>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
 
-Chufan Shi:   Master. Topic: Natural Language  Processing. (2022- Now)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yangrunming.png' | relative_url }}" alt="Runming Yang">
+    <div class="person-info">
+      <a href="https://rummyyang.github.io/" target="_blank" class="person-name">Runming Yang</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/shichufan.png' | relative_url }}" alt="Chufan Shi">
+    <div class="person-info">
+      <a href="https://chufanshi.github.io/" target="_blank" class="person-name">Chufan Shi</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
+    </div>
+  </div>
+
+</div>
 
 
 **2021**

@@ -111,17 +111,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
 </div>
-  
-  <div class="person-card">
-    <img class="person-photo" src="{{ '../images/members image/.png' | relative_url }}" alt="">
-    <div class="person-info">
-      <a href="" target="_blank" class="person-name"></a>
-      <p class="person-area">Master. Topic:  (2022- 2025)</p>
-    </div>
-  </div>
 
-  <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="">
-  <span class="person-name"></span>
 
 **2022**
 
@@ -244,36 +234,128 @@ Before 2020, our team members are primarily from the Department of Automation an
 
 **2021**
 
-Lu Tan:   Master. Topic:  Natural Language  Processing. (2021- 2024,  currently © Baidu)
+<div class="people-grid no-divider">
 
-Sidi Yang:   Master. Topic:  Computer Vision. (2021- 2024, currently Ph.D student © The University of Hong Kong)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Lu Tan">
+    <div class="person-info">
+      <span class="person-name">Lu Tan</span>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2021- 2024,  currently © Baidu)</p>
+    </div>
+  </div>
 
-Tian Liang:   Master. Topic:  Relation Extraction. (2021- 2024,  currently © Tencent)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yangsidi.png' | relative_url }}" alt="Sidi Yang">
+    <div class="person-info">
+      <a href="www.sidiyang.com" target="_blank" class="person-name">Sidi Yang</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2021- 2024, currently Ph.D student © The University of Hong Kong)</p>
+    </div>
+  </div>
 
-Cheng  Yang:   Master. Topic:  Event Detection. (2021- 2024,  currently  Ph.D student © CUHK)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liangtian.png' | relative_url }}" alt="Tian Liang">
+    <div class="person-info">
+      <a href="https://skytliang.github.io/" target="_blank" class="person-name">Tian Liang</a>
+      <p class="person-area">Master. Topic: Relation Extraction. (2021- 2024,  currently © Tencent)</p>
+    </div>
+  </div>
 
-Yuan Gong:   Master. Topic:  Visual Content Creation. (2021- 2024,  currently © ByteDance)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yangcheng.png' | relative_url }}" alt="Cheng  Yang">
+    <div class="person-info">
+      <a href="https://chengyang.notion.site/aboutme" target="_blank" class="person-name">Cheng Yang</a>
+      <p class="person-area">Master. Topic: Event Detection. (2021- 2024,  currently  Ph.D student © CUHK)</p>
+    </div>
+  </div>
 
-Shanshan  Lao:   Master. Topic:  Efficient  Neural Network. (2021- 2024,  currently © ByteDance)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yuan Gong">
+    <div class="person-info">
+      <span class="person-name">Yuan Gong</span>
+      <p class="person-area">Master. Topic: Visual Content Creation. (2021- 2024,  currently © ByteDance)</p>
+    </div>
+  </div>
 
-Hui Zhou:   Master. Topic:  Cross-Modal Learning. (2021- 2024,  currently © ByteDance)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Shanshan  Lao">
+    <div class="person-info">
+      <span class="person-name">Shanshan  Lao</span>
+      <p class="person-area">Master. Topic: Efficient  Neural Network. (2021- 2024,  currently © ByteDance)</p>
+    </div>
+  </div>
 
-Yatai Ji: Master. Topic:  Cross-Modality and VQA. (2021- 2024, currently Ph.D student © The University of Hong Kong)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Hui Zhou">
+    <div class="person-info">
+      <span class="person-name">Hui Zhou</span>
+      <p class="person-area">Master. Topic: Cross-Modal Learning. (2021- 2024,  currently © ByteDance)</p>
+    </div>
+  </div>
 
-Meiwei Luo: Master. Topic:  Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/jiyatai.png' | relative_url }}" alt="Yatai Ji">
+    <div class="person-info">
+      <a href="https://yataiji.github.io" target="_blank" class="person-name">Yatai Ji</a>
+      <p class="person-area">Master. Topic: Cross-Modality and VQA. (2021- 2024, currently Ph.D student © The University of Hong Kong)</p>
+    </div>
+  </div>
 
-Xuanzhou Liu: Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Meiwei Luo">
+    <div class="person-info">
+      <span class="person-name">Meiwei Luo</span>
+      <p class="person-area">Master. Topic: Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)</p>
+    </div>
+  </div>
 
-Xinyu Zhu: Master. Topic:  Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia )
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Xuanzhou Liu">
+    <div class="person-info">
+      <span class="person-name">Xuanzhou Liu</span>
+      <p class="person-area">Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)</p>
+    </div>
+  </div>
 
-Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Xinyu Zhu">
+    <div class="person-info">
+      <span class="person-name">Xinyu Zhu</span>
+      <p class="person-area">Master. Topic: Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia )</p>
+    </div>
+  </div>
 
-Siheng Li: Master. Topic:  Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Chengze Yu">
+    <div class="person-info">
+      <span class="person-name">Chengze Yu</span>
+      <p class="person-area">Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Siheng Li">
+    <div class="person-info">
+      <span class="person-name">Siheng Li</span>
+      <p class="person-area">Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)</p>
+    </div>
+  </div>
+
+</div>
 
 
 **2020**
 
 Qingyan Bai: Master,  Big Data Engineering. Topic: Image Synthesis and Restoration. (2020- 2023,  currently Ph.D student © HKUST)
+
+Wangjie Jiang: Master,  Engineering of Artificial Intelligence. Topic:  Dialog Generation and Knowledge Graph. (2020- 2023,  currently © Alibaba)
+
+Taiqiang Wu: Master,  Engineering of Artificial Intelligence. Topic:  Text Generation and Knowledge Graphs. (2020- 2023,  currently Ph.D student © The University of Hong Kong)
+
+Yong Liu: Master,  Engineering of Artificial Intelligence. Topic: Image Segmentation. (2020- 2023,  currently Ph.D student © THU)
+
+Jiaqi Sun: Master,  Open FIESTA. Topic: Graph Neural Networks. (2020- 2023, currently © Carnegie Mellon University )
+
+--------------------
 
 Fei Yin: Master,  Big Data Engineering. Topic: Visual Representation. (2020- 2023,  currently Ph.D student © the University of Cambridge )
 
@@ -283,17 +365,9 @@ Jie Gao: Master,  Engineering of Artificial Intelligence. Topic: Text Classifica
 
 Jiayi Li:  Master,  Engineering of Artificial Intelligence. Topic:  Knowledge Graph Complete. (2020- 2023,  currently © Baidu)
 
-Wangjie Jiang: Master,  Engineering of Artificial Intelligence. Topic:  Dialog Generation and Knowledge Graph. (2020- 2023,  currently © Alibaba)
-
-Taiqiang Wu: Master,  Engineering of Artificial Intelligence. Topic:  Text Generation and Knowledge Graphs. (2020- 2023,  currently Ph.D student © The University of Hong Kong)
-
-Yong Liu: Master,  Engineering of Artificial Intelligence. Topic: Image Segmentation. (2020- 2023,  currently Ph.D student © THU)
-
 Xingyu Bai: Master,  Open FIESTA. Topic: InformationExtraction. (2020- 2023,  currently © Baidu)
 
 Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Assessment. (2020- 2023,  currently Ph.D student © the University of Tokyo )
-
-Jiaqi Sun: Master,  Open FIESTA. Topic: Graph Neural Networks. (2020- 2023, currently © Carnegie Mellon University )
 
 
 **2019**
@@ -302,13 +376,15 @@ Gengcong Yang: Master in Control Engineering, Department of Automation. Topic: S
 
 Jiahao Wang: Master in Control Engineering, Department of Automation. Topic: Model Compression. (2019- 2022, currently at HKU)
 
+Chenyu Tian: Master,  Open FIESTA. Thesis: Image Segmentation and Pose Estimation. (2019- 2022,  currently at Hulu.com)
+
+--------------------
+
 Mingdeng Cao: Master in Control Engineering, Department of Automation. Topic: Video Deblurring. (2019- 2022,  currently Ph.d.  at the University of Tokyo)
 
 Ran Yu:  Master in Control Engineering, Department of Automation. Topic: Video Instance Segmentation. (2019- 2022, currently at Meituan.com)
 
 Xiang Cao: Master in Control Engineering, Department of Automation. Topic: Response Generation. (2019- 2022, currently at Tencent)
-
-Chenyu Tian: Master,  Open FIESTA. Thesis: Image Segmentation and Pose Estimation. (2019- 2022,  currently at Hulu.com)
 
 Maoyan  Chen: Master,  Open FIESTA. Topic: Dialogue Generation. (2019- 2022, currently at Xverse.cn)
 

@@ -126,22 +126,6 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Haoze Sun">
-    <div class="person-info">
-      <span class="person-name">Haoze Sun</span>
-      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
-    </div>
-  </div>  
-
-  <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Tianhe Wu">
-    <div class="person-info">
-      <span class="person-name">Tianhe Wu</span>
-      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
-    </div>
-  </div> 
-
-  <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/nixinzhe.png' | relative_url }}" alt="Xinzhe Ni">
     <div class="person-info">
       <a href="https://scholar.google.com/citations?user=TB0b58kAAAAJ&hl=en" target="_blank" class="person-name">Xinzhe Ni</a>
@@ -150,25 +134,9 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Jixiang Sun">
-    <div class="person-info">
-      <span class="person-name">Jixiang Sun</span>
-      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
-    </div>
-  </div>
-
-  <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/wenhao.png' | relative_url }}" alt="Hao Wen">
     <div class="person-info">
       <span class="person-name">Hao Wen</span>
-      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
-    </div>
-  </div>
-
-  <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Cong Wei">
-    <div class="person-info">
-      <span class="person-name">Cong Wei</span>
       <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
     </div>
   </div>
@@ -206,14 +174,6 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Zeming Zheng">
-    <div class="person-info">
-      <span class="person-name">Zeming Zheng</span>
-      <p class="person-area">Master. Topic: Natural Language  Processing. (2022- 2025)</p>
-    </div>
-  </div>
-
-  <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/yangrunming.png' | relative_url }}" alt="Runming Yang">
     <div class="person-info">
       <a href="https://rummyyang.github.io/" target="_blank" class="person-name">Runming Yang</a>
@@ -230,6 +190,16 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
 </div>
+
+Haoze Sun: Master. Topic: Computer Vision. (2022- 2025)
+
+Tianhe Wu: Master. Topic: Computer Vision. (2022- 2025)
+
+Jixiang Sun: Master. Topic: Computer Vision. (2022- 2025)
+
+Cong Wei: Master. Topic: Computer Vision. (2022- 2025)
+
+Zeming Zheng: Master. Topic: Natural Language  Processing. (2022- 2025)
 
 
 **2021**

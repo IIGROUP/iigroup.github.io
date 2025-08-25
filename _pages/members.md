@@ -268,25 +268,25 @@ Before 2020, our team members are primarily from the Department of Automation an
     </div>
   </div>
 
-  Lu Tan: Master. Topic: Natural Language  Processing. (2021- 2024,  currently © Baidu)
-
-  Yuan Gong: Master. Topic: Visual Content Creation. (2021- 2024,  currently © ByteDance)
-
-  Shanshan Lao: Master. Topic: Efficient  Neural Network. (2021- 2024,  currently © ByteDance)
-
-  Hui Zhou: Master. Topic: Cross-Modal Learning. (2021- 2024,  currently © ByteDance)
-
-  Meiwei Luo: Master. Topic: Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)
-
-  Xuanzhou Liu: Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)
-  
-  Xinyu Zhu: Master. Topic: Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia )
-  
-  Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)
-  
-  Siheng Li: Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)
-
 </div>
+
+Lu Tan: Master. Topic: Natural Language  Processing. (2021- 2024,  currently © Baidu)
+
+Yuan Gong: Master. Topic: Visual Content Creation. (2021- 2024,  currently © ByteDance)
+
+Shanshan Lao: Master. Topic: Efficient  Neural Network. (2021- 2024,  currently © ByteDance)
+
+Hui Zhou: Master. Topic: Cross-Modal Learning. (2021- 2024,  currently © ByteDance)
+
+Meiwei Luo: Master. Topic: Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)
+
+Xuanzhou Liu: Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)
+
+Xinyu Zhu: Master. Topic: Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia )
+
+Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)
+
+Siheng Li: Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)
 
 
 **2020**

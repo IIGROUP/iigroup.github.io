@@ -24,6 +24,227 @@ Students
 ------
 Before 2020, our team members are primarily from the Department of Automation and Open Faculty for Innovation, Education, Science, Technology, and Art (Open FIESTA).  Since 2020,  our Group has been affiliated with Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, and members are from two master's programs: Big Data Engineering and Engineering of Artificial Intelligence in Electronic Information, and two master's programs at Open FIESTA: BIO³ (Bio-Nano-Info)  and Internet + Innovation Design (IID).  
 
+**2025**
+
+<div class="people-grid no-divider">
+  
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liuhao.png' | relative_url }}" alt="Hao Liu">
+    <div class="person-info">
+      <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=8pXVZWUAAAAJ&view_op=list_works&authuser=1&gmla=AH8HC4yhRiBGResHVe_LPro9DvrGz-Jrr98dTWcXl35ro7VVcEPb7xL4ocolDX_mGN58H1Df80PIynZZVDoz77BY84O04iraZIk3YqKYWe8" target="_blank" class="person-name">Hao Liu</a>
+      <p class="person-area">PhD. Topic: Computer Vision. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Tianhang Yang">
+    <div class="person-info">
+      <span class="person-name">Tianhang Yang</span>
+      <p class="person-area">PhD. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/sunshaoning.png' | relative_url }}" alt="Shaoning Sun">
+    <div class="person-info">
+      <a href="https://github.com/ShaoningSun" target="_blank" class="person-name">Shaoning Sun</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/mengyuxin.png' | relative_url }}" alt="Yuxin Meng">
+    <div class="person-info">
+      <span class="person-name">Yuxin Meng</span>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liutao.png' | relative_url }}" alt="Tao Liu">
+    <div class="person-info">
+      <span class="person-name">Tao Liu</span>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yujiachen.png' | relative_url }}" alt="Jiachen Yu">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=L7nYpVYAAAAJ&hl=zh-CN" target="_blank" class="person-name">Jiachen Yu</a>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/zhangruixu.png' | relative_url }}" alt="Ruixu Zhang">
+    <div class="person-info">
+      <a href="https://orcid.org/0009-0004-9985-0204" target="_blank" class="person-name">Ruixu Zhang</a>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Xuewei Yang">
+    <div class="person-info">
+      <span class="person-name">Xuewei Yang</span>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/hongyuhuan.png' | relative_url }}" alt="Yuhuan Hong">
+    <div class="person-info">
+      <span class="person-name">Yuhuan Hong</span>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wengkaitong.png' | relative_url }}" alt="Kaitong Weng">
+    <div class="person-info">
+      <span class="person-name">Kaitong Weng</span>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/chenqingjia.png' | relative_url }}" alt="Qingjia Chen">
+    <div class="person-info">
+      <span class="person-name">Qingjia Chen</span>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/shiyihang.png' | relative_url }}" alt="Yihang Shi">
+    <div class="person-info">
+      <a href="https://elevengogogo.github.io/" target="_blank" class="person-name">Yihang Shi</a>
+      <p class="person-area">Master. (2025- Now)</p>
+    </div>
+  </div>
+
+</div>
+
+**2024**
+
+<div class="people-grid no-divider">
+  
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yuqing Chen">
+    <div class="person-info">
+      <span class="person-name">Yuqing Chen</span>
+      <p class="person-area">PhD. Topic: Computer Vision. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/renyiming.png' | relative_url }}" alt="Yiming Ren">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=ayf4nGIAAAAJ&hl=zh-CN&oi=ao" target="_blank" class="person-name">Yiming Ren</a>
+      <p class="person-area">PhD. Topic: Computer Vision. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wangzongqi.png' | relative_url }}" alt="Zongqi Wang">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?hl=en&user=dbCdFjoAAAAJ&view_op=list_works" target="_blank" class="person-name">Zongqi Wang</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/zhangshuoshuo.png' | relative_url }}" alt="Shuoshuo Zhang">
+    <div class="person-info">
+      <span class="person-name">Shuoshuo Zhang</span>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Qinxian Yang">
+    <div class="person-info">
+      <span class="person-name">Qinxian Yang</span>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wujie.png' | relative_url }}" alt="Jie Wu">
+    <div class="person-info">
+      <a href="https://jiewu02.github.io/" target="_blank" class="person-name">Jie Wu</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/zhangxinchen.png' | relative_url }}" alt="Xinchen Zhang">
+    <div class="person-info">
+      <a href="https://cominclip.github.io" target="_blank" class="person-name">Xinchen Zhang</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/dengjingyuan.png' | relative_url }}" alt="Jingyuan Deng">
+    <div class="person-info">
+      <span class="person-name">Jingyuan Deng</span>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liyu.png' | relative_url }}" alt="Yu Li">
+    <div class="person-info">
+      <span class="person-name">Yu Li</span>
+      <p class="person-area">Master. Topic: Computer Vision. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yang Ding">
+    <div class="person-info">
+      <a href="https://zsgvivo.github.io/" target="_blank" class="person-name">Yang Ding</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/linzhiqiang.png' | relative_url }}" alt="Zhiqiang Lin">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=xiyBUaAAAAAJ" target="_blank" class="person-name">Zhiqiang Lin</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/gaomeng.png' | relative_url }}" alt="Meng Gao">
+    <div class="person-info">
+      <span class="person-name">Meng Gao</span>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liufengkai.png' | relative_url }}" alt="Fengkai Liu">
+    <div class="person-info">
+      <a href="https://liufeeky.github.io/" target="_blank" class="person-name">Fengkai Liu</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/zhangyizhen.png' | relative_url }}" alt="Yizhen Zhang">
+    <div class="person-info">
+      <a href="https://alchemistyzz.github.io/" target="_blank" class="person-name">Yizhen Zhang</a>
+      <p class="person-area">Master. (2024- Now)</p>
+    </div>
+  </div>
+
+</div>
+
+
 **2023**
 
 <div class="people-grid no-divider">
@@ -261,17 +482,49 @@ Siheng Li: Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D stu
 
 **2020**
 
-Qingyan Bai: Master,  Big Data Engineering. Topic: Image Synthesis and Restoration. (2020- 2023,  currently Ph.D student © HKUST)
+<div class="people-grid no-divider">
 
-Wangjie Jiang: Master,  Engineering of Artificial Intelligence. Topic:  Dialog Generation and Knowledge Graph. (2020- 2023,  currently © Alibaba)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/baiqingyan.png' | relative_url }}" alt="Qingyan Bai">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=xUMjxi4AAAAJ" target="_blank" class="person-name">Qingyan Bai</a>
+      <p class="person-area">Master, Big Data Engineering. Topic: Image Synthesis and Restoration. (2020- 2023,  currently Ph.D student © HKUST)</p>
+    </div>
+  </div>
 
-Taiqiang Wu: Master,  Engineering of Artificial Intelligence. Topic:  Text Generation and Knowledge Graphs. (2020- 2023,  currently Ph.D student © The University of Hong Kong)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/jiangwangjie.png' | relative_url }}" alt="Wangjie Jiang">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=l_6O5kUAAAAJ&hl=zh-CN&oi=ao" target="_blank" class="person-name">Wangjie Jiang</a>
+      <p class="person-area">Master, Engineering of Artificial Intelligence. Topic:  Dialog Generation and Knowledge Graph. (2020- 2023,  currently © Alibaba)</p>
+    </div>
+  </div>
 
-Yong Liu: Master,  Engineering of Artificial Intelligence. Topic: Image Segmentation. (2020- 2023,  currently Ph.D student © THU)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wutaiqiang.png' | relative_url }}" alt="Taiqiang Wu">
+    <div class="person-info">
+      <a href="https://wutaiqiang.github.io/" target="_blank" class="person-name">Taiqiang Wu</a>
+      <p class="person-area">Master, Engineering of Artificial Intelligence. Topic:  Text Generation and Knowledge Graphs. (2020- 2023,  currently Ph.D student © The University of Hong Kong)</p>
+    </div>
+  </div>
 
-Jiaqi Sun: Master,  Open FIESTA. Topic: Graph Neural Networks. (2020- 2023, currently © Carnegie Mellon University )
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/liuyong.png' | relative_url }}" alt="Yong Liu">
+    <div class="person-info">
+      <a href="https://yongliu20.github.io/" target="_blank" class="person-name">Yong Liu</a>
+      <p class="person-area">Master, Engineering of Artificial Intelligence. Topic: Image Segmentation. (2020- 2023,  currently Ph.D student © THU)</p>
+    </div>
+  </div>
 
---------------------
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/sunjiaqi.png' | relative_url }}" alt="Jiaqi Sun">
+    <div class="person-info">
+      <a href="https://scholar.google.ca/citations?user=wyHJeowAAAAJ&hl=da" target="_blank" class="person-name">Jiaqi Sun</a>
+      <p class="person-area">Master, Open FIESTA. Topic: Graph Neural Networks. (2020- 2023, currently © Carnegie Mellon University)</p>
+    </div>
+  </div>
+
+</div>
 
 Fei Yin: Master,  Big Data Engineering. Topic: Visual Representation. (2020- 2023,  currently Ph.D student © the University of Cambridge )
 
@@ -288,13 +541,33 @@ Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Ass
 
 **2019**
 
-Gengcong Yang: Master in Control Engineering, Department of Automation. Topic: Scene Graph Generation. (2019- 2022,  currently at ByteDance.com )
+<div class="people-grid no-divider">
 
-Jiahao Wang: Master in Control Engineering, Department of Automation. Topic: Model Compression. (2019- 2022, currently at HKU)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/yanggengcong.png' | relative_url }}" alt="Gengcong Yang">
+    <div class="person-info">
+      <a href="https://scholar.google.com/citations?user=UJ2bDkkAAAAJ&hl=zh-CN" target="_blank" class="person-name">Gengcong Yang</a>
+      <p class="person-area">Master in Control Engineering, Department of Automation. Topic: Scene Graph Generation. (2019- 2022,  currently at ByteDance.com)</p>
+    </div>
+  </div>
 
-Chenyu Tian: Master,  Open FIESTA. Thesis: Image Segmentation and Pose Estimation. (2019- 2022,  currently at Hulu.com)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wangjiahao.png' | relative_url }}" alt="Jiahao Wang">
+    <div class="person-info">
+      <a href="https://www.zhihu.com/people/wang-jia-hao-hku" target="_blank" class="person-name">Jiahao Wang</a>
+      <p class="person-area">Master in Control Engineering, Department of Automation. Topic: Model Compression. (2019- 2022, currently at HKU)</p>
+    </div>
+  </div>
 
---------------------
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/tianchenyu.png' | relative_url }}" alt="Chenyu Tian">
+    <div class="person-info">
+      <a href="https://www.zhihu.com/people/wang-jia-hao-hku" target="_blank" class="person-name">Chenyu Tian</a>
+      <p class="person-area">Master, Open FIESTA. Topic: Image Segmentation and Pose Estimation. (2019- 2022,  currently at Hulu.com)</p>
+    </div>
+  </div>
+
+</div>
 
 Mingdeng Cao: Master in Control Engineering, Department of Automation. Topic: Video Deblurring. (2019- 2022,  currently Ph.d.  at the University of Tokyo)
 
@@ -353,8 +626,19 @@ Xu Huang: Master in Control  Engineering,  Department of Automation. (2014-2017,
 
 Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2017, currently at Netease)
 
+
 Research Assistant and Visiting Scholar
 ------
-Weihao Xia: Research Assistant (currently PhD at UCL, UK)
+<div class="people-grid no-divider">
 
-Junjie Wang: Visiting Student (currently PhD at Waseda University, JP)
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wangjunjie.png' | relative_url }}" alt="Junjie Wang">
+    <div class="person-info">
+      <a href="https://wangjunjie-ai.github.io/" target="_blank" class="person-name">Junjie Wang</a>
+      <p class="person-area">Visiting Student (currently PhD at Waseda University, JP)</p>
+    </div>
+  </div>
+
+</div>
+
+Weihao Xia: Research Assistant (currently PhD at UCL, UK)

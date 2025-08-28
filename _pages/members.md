@@ -632,7 +632,7 @@ Research Assistant and Visiting Scholar
 <div class="people-grid no-divider">
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/members image/wangjunjie.png' | relative_url }}" alt="Junjie Wang">
+    <img class="person-photo" src="{{ '../images/members image/wangjunjie.jpg' | relative_url }}" alt="Junjie Wang">
     <div class="person-info">
       <a href="https://wangjunjie-ai.github.io/" target="_blank" class="person-name">Junjie Wang</a>
       <p class="person-area">Visiting Student (currently PhD at Waseda University, JP)</p>

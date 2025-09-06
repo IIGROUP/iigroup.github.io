@@ -101,9 +101,9 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/members image/wengkaitong.png' | relative_url }}" alt="Kaitong Weng">
+    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yuhan Suo">
     <div class="person-info">
-      <span class="person-name">Kaitong Weng</span>
+      <span class="person-name">Yuhan Suo</span>
       <p class="person-area">Master. (2025- Now)</p>
     </div>
   </div>

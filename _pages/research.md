@@ -23,9 +23,7 @@ redirect_from:
 **From 2018**
 
 **Journal**
-
-<font size="3">
-
+<div style="font-size:14px;">
 1.	<b>[CV]</b> Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
 2.	<b>[CV]</b> Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
 (TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a><br>
@@ -44,16 +42,16 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 14.	<b>[NLP]</b> Yiru Wang, Pengda Si, Zeyang Lei, Guangxu Xun, Yujiu Yang. “HSCJN: A holistic semantic constraint joint network for diverse response generation.” Comput. Speech Lang. , Vol:65, 101135, 2021 (SCI Q2 IF=4.3) <a href="https://www.sciencedirect.com/science/article/pii/S0885230820300681?via%3Dihub" target="_blank">[PDF]</a><br>
 15.	<b>[CV]</b> Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Cali-sketch: Stroke calibration and completion for high-quality face image generation from human-like sketches.” Neurocomputing, Vol:460, 256-265,2021 (SCI Q2 IF=6) <a href="https://www.sciencedirect.com/science/article/pii/S0925231221010730?via%3Dihub" target="_blank">[PDF]</a><br>
 16.	<b>[DM]</b> Shuang Huang, Yujiu Yang, Biqing Huang. “Health Status Analysis and Optimization of Load Dispatch for Power Plant Boiler.” Journal of Computing and Information Science and Engineering, Vol:21(1): 011004, 2021 (SCI Q3 IF=3.1) <a href="https://asmedigitalcollection.asme.org/computingengineering/article/21/1/011004/1085032/Health-Status-Analysis-and-Optimization-of-Load" target="_blank">[PDF]</a><br>
-17.	<b>[CV]</b> Weihao Xia, Yujiu Yang, Jing-Hao Xue, Jing Xiao. “Domain Fingerprints for No-Reference Image Quality Assessment.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), Vol:31(4), 1332-1341, 2021 (SCI Q1 IF=8.4) <a href="https://ieeexplore.ieee.org/document/9117098" target="_blank">[PDF]<br>
+17.	<b>[CV]</b> Weihao Xia, Yujiu Yang, Jing-Hao Xue, Jing Xiao. “Domain Fingerprints for No-Reference Image Quality Assessment.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), Vol:31(4), 1332-1341, 2021 (SCI Q1 IF=8.4) <a href="https://ieeexplore.ieee.org/document/9117098" target="_blank">[PDF]</a><br>
 18.	<b>[CV]</b> Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Unsupervised multi-domain multimodal image-to-image translation with explicit domain-constrained disentanglement.” Neural Networks (NN), Vol:131, 50-63, 2020 (SCI Q1 IF=7.8) <a href="https://www.sciencedirect.com/science/article/pii/S0893608020302641?via%3Dihub" target="_blank">[PDF]</a><br>
 19.	<b>[NLP]</b> Lifang Ding, Zeyang Lei, Guangxu Xun, Yujiu Yang. “FAT-RE: A faster dependency-free model for relation extraction.” J. Web Semant, Vol:65, 100598 , 2020 (SCI Q3 IF=2.5) <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300366?via%3Dihub" target="_blank">[PDF]</a><br>
 20.	<b>[CV]</b> Ronald Wihal Oei, Guanqun Hou, Fuhai Liu, Jin Zhong, Jiewen Zhang, Zhaoyi An, Luping Xu, Yujiu Yang. “Convolutional neural network for cell classification using microscope images of intracellular actin networks.” PLoS ONE, Vol 14(3): e0213626, 2019 (SCI Q2 IF=3.7) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213626" target="_blank">[PDF]</a>
 
-</font>
+</div>
 
 **Conference**
 
-<font size="3">
+<div style="font-size:14px;">
 
 1.	<b>[CV]</b> Cong Wei, Yujie Zhong, Yingsen Zeng, Haoxian Tan, Yong Liu, Hongfa Wang, Yujiu Yang. “ InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank"><a href="" target="_blank">[PDF]</a><br></a><br>
 2.	<b>[CV]</b> Zhuoyan Luo, Yinghao Wu, Tianheng Cheng, Yong Liu, Yicheng Xiao, Hongfa Wang, Xiao-Ping Zhang, Yujiu Yang. “CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
@@ -193,12 +191,10 @@ Classification.” the Thirty-Second AAAI Conference on Artificial Intelligence,
 118.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Min Yang. “SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis.” The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, (CCF-A), pp.1197-1200, 2018 <a href="" target="_blank">[PDF]</a><br>
 119.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Yi Liu. “LAAN: A Linguistic-Aware Attention Network for Sentiment Analysis.” the The Web Conference 2018 on The Web Conference 2018, WWW 2018, (CCF-A), pp.47-48, 2018 <a href="" target="_blank">[PDF]</a><br>
 
-</font>
+</div>
 
 **Before 2018**
-
-<font size="3">
-
+<div style="font-size:14px;">
 X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.
 
 Z. Jin, Y. Yang, X. Bao, B. Huang, "Combining User-based and Global Lexicon Features for Sentiment Analysis in Twitter", International Joint Conference on Neural Networks (IJCNN), 2016.
@@ -219,7 +215,7 @@ G. Xun, Y. Yang, and W. Liu, "Latent Community Discovery with Network Regulariza
 
 L. SUN, Y. Yang, and W. Liu, "Trended DTW based on piecewise linear approximation for time series mining", IEEE International Conference on Data Mining (ICDM), 2011.
 
-</font>
+</div>
 
 <!-- 项目卡片 -->
 <!-- <div class="projects-container">

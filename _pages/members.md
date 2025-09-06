@@ -87,7 +87,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/yangxuewei.png' | relative_url }}" alt="Xuewei Yang">
     <div class="person-info">
-      <span class="person-name">Xuewei Yang</span>
+      <a href="https://github.com/XueweiYang209" target="_blank" class="person-name">Xuewei Yang</a>
       <p class="person-area">Master. Topic: Natural Language  Processing. (2025- Now)</p>
     </div>
   </div>
@@ -131,7 +131,7 @@ Before 2020, our team members are primarily from the Department of Automation an
 <div class="people-grid no-divider">
   
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yuqing Chen">
+    <img class="person-photo" src="{{ '../images/members image/chenyuqing.png' | relative_url }}" alt="Yuqing Chen">
     <div class="person-info">
       <span class="person-name">Yuqing Chen</span>
       <p class="person-area">PhD. Topic: Computer Vision. (2024- Now)</p>

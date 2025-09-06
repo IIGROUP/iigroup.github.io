@@ -22,6 +22,25 @@ redirect_from:
 <div align="center">
   <img src="{{ '../images/2023ICCV.png' | relative_url }}" width="329.2" height=auto alt="2023 ICCV">
 </div>
+<div style="font-size:16px;">
+3. 2022 年度广东省科技进步奖一等奖
+   First Prize, Guangdong Provincial Science and Technology Progress Award, 2022
+</div>
+<div align="center">
+  <img src="{{ '../images/2022省奖个人.png' | relative_url }}" width="329.2" height=auto alt="2023 省奖个人">
+</div>
+<div style="font-size:16px;">
+4. Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 2 No Reference.
+</div>
+<div align="center">
+  <img src="{{ '../images/2022NTIRE22-NoRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-NoRef">
+</div>
+<div style="font-size:16px;">
+5. Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 1 Full Reference.
+</div>
+<div align="center">
+  <img src="{{ '../images/2022NTIRE22-fullRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-fullRef">
+</div>
 
 
 

@@ -10,12 +10,19 @@ redirect_from:
 
 🏆 Awards
 ------
-<font size="3">
-2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
-</font>
+<div style="font-size:16px;">
+1. 2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+</div>
 <div align="center">
   <img src="{{ '../images/NeurIPS Best Paper Runner-up.png' | relative_url }}" width="329.2" height="256" alt="NeurIPS Best Paper Runner-up">
 </div>
+<div style="font-size:16px;">
+2. 2023 ICCV Win the 1ST PLACE AWARD in the Referring Video Object Segmentation Track, 5th Large-Scale Video Object Segmentation Challenge.
+</div>
+<div align="center">
+  <img src="{{ '../images/2023ICCV.png' | relative_url }}" width="329.2" height=auto alt="2023 ICCV">
+</div>
+
 
 
 📕 Publications
@@ -53,7 +60,7 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 
 <div style="font-size:16px;">
 
-1.	<b>[CV]</b> Cong Wei, Yujie Zhong, Yingsen Zeng, Haoxian Tan, Yong Liu, Hongfa Wang, Yujiu Yang. “ InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank"><a href="" target="_blank">[PDF]</a><br></a><br>
+1.	<b>[CV]</b> Cong Wei, Yujie Zhong, Yingsen Zeng, Haoxian Tan, Yong Liu, Hongfa Wang, Yujiu Yang. “ InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
 2.	<b>[CV]</b> Zhuoyan Luo, Yinghao Wu, Tianheng Cheng, Yong Liu, Yicheng Xiao, Hongfa Wang, Xiao-Ping Zhang, Yujiu Yang. “CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
 3.	<b>[CV]</b> Fengyuan Shi, Zhuoyan Luo, Yixiao Ge, Yujiu Yang, Ying Shan, Limin Wang . “Scalable Image Tokenization with Index Backpropagation Quantizationn.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
 4.	<b>[CV]</b> WentaoXiang, Haoxian Tan, Cong Wei, Yujie Zhong, Dengjie Li,Yujiu Yang. “Advancing Visual Large Language Model for Multi-granular Versatile Perception.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>

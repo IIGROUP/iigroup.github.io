@@ -23,7 +23,7 @@ redirect_from:
   <img src="{{ '../images/2023ICCV.png' | relative_url }}" width="329.2" height=auto alt="2023 ICCV">
 </div>
 <div style="font-size:16px;">
-3. 2022 年度广东省科技进步奖一等奖
+3. 2022 年度广东省科技进步奖一等奖<br>
    First Prize, Guangdong Provincial Science and Technology Progress Award, 2022
 </div>
 <div align="center">
@@ -41,7 +41,27 @@ redirect_from:
 <div align="center">
   <img src="{{ '../images/2022NTIRE22-fullRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-fullRef">
 </div>
-
+<div style="font-size:16px;">
+6. 2021 年度深圳市科技进步奖（个人）<br>
+   Shenzhen Science and Technology Progress Award (Individual), 2021
+</div>
+<div align="center">
+  <img src="{{ '../images/2021市科技奖-个人.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-个人">
+</div>
+<div style="font-size:16px;">
+7. 2021 年度深圳市科技进步奖（单位）<br>
+   Shenzhen Science and Technology Progress Award (Organization), 2021
+</div>
+<div align="center">
+  <img src="{{ '../images/2021市科技奖-单位.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-单位">
+</div>
+<div style="font-size:16px;">
+8. 2020 年度吴文俊人工智能科学技术奖，科技进步奖一等奖<br>
+   Wu Wenjun Artificial Intelligence Science and Technology Award – Science and Technology Progress Award (First Prize), 2020
+</div>
+<div align="center">
+  <img src="{{ '../images/2020吴文俊一等奖.jpg' | relative_url }}" width="329.2" height=auto alt="2020吴文俊一等奖">
+</div>
 
 
 📕 Publications
@@ -215,31 +235,31 @@ Network for Aspect-Level Sentiment Classification.” The Thirty-Third AAAI Conf
 Classification.” the Thirty-Second AAAI Conference on Artificial Intelligence, AAAI-18, (CCF-A), pp.8105-8106, 2018 <a href="" target="_blank">[PDF]</a><br>
 117.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Min Yang. “A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification.” the 56th Annual Meeting of the Association for Computational Linguistics, ACL 2018, (CCF-A), pp.758-763, 2018 <a href="" target="_blank">[PDF]</a><br>
 118.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Min Yang. “SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis.” The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, (CCF-A), pp.1197-1200, 2018 <a href="" target="_blank">[PDF]</a><br>
-119.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Yi Liu. “LAAN: A Linguistic-Aware Attention Network for Sentiment Analysis.” the The Web Conference 2018 on The Web Conference 2018, WWW 2018, (CCF-A), pp.47-48, 2018 <a href="" target="_blank">[PDF]</a><br>
+119.	<b>[NLP]</b> Zeyang Lei, Yujiu Yang, Yi Liu. “LAAN: A Linguistic-Aware Attention Network for Sentiment Analysis.” the The Web Conference 2018 on The Web Conference 2018, WWW 2018, (CCF-A), pp.47-48, 2018 <a href="" target="_blank">[PDF]</a>
 
 </div>
 
 **Before 2018**
 <div style="font-size:16px;">
-X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.
+X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.<br>
 
-Z. Jin, Y. Yang, X. Bao, B. Huang, "Combining User-based and Global Lexicon Features for Sentiment Analysis in Twitter", International Joint Conference on Neural Networks (IJCNN), 2016.
+Z. Jin, Y. Yang, X. Bao, B. Huang, "Combining User-based and Global Lexicon Features for Sentiment Analysis in Twitter", International Joint Conference on Neural Networks (IJCNN), 2016.<br>
 
-X. Shi, Z. Guo, Z. Lai, Y. Yang, Z. Bao, and D.  Zhang, "A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction", IEEE Transactions on Image Processing (TIP), 2015.
+X. Shi, Z. Guo, Z. Lai, Y. Yang, Z. Bao, and D.  Zhang, "A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction", IEEE Transactions on Image Processing (TIP), 2015.<br>
 
-X. Shi, Z. Guo, Y. Yang, and L.Yang, "Within-class Penalty based Multi-class Support Vector Machine", IEEE International Conference on Image Processing (ICIP), 2015.
+X. Shi, Z. Guo, Y. Yang, and L.Yang, "Within-class Penalty based Multi-class Support Vector Machine", IEEE International Conference on Image Processing (ICIP), 2015.<br>
 
-X. Shi, Y. Yang, Z. Guo, and Z. Lai, "Face Recognition by Sparse Discriminant Analysis via Joint L2,1-norm Minimization", Elsevier Pattern Recognition (PR), 2014.
+X. Shi, Y. Yang, Z. Guo, and Z. Lai, "Face Recognition by Sparse Discriminant Analysis via Joint L2,1-norm Minimization", Elsevier Pattern Recognition (PR), 2014.<br>
 
-B. Yin, Y. Yang, and W. Liu, "ICSRec: Interest Circle-based Recommendation System Incorporating Social Propagation", IEEE International Conference on Information Science and Technology (ICIST, Best Paper Honourable Mentions), 2014.
+B. Yin, Y. Yang, and W. Liu, "ICSRec: Interest Circle-based Recommendation System Incorporating Social Propagation", IEEE International Conference on Information Science and Technology (ICIST, Best Paper Honourable Mentions), 2014.<br>
 
-B. Yin, Y. Yang, and W. Liu, "Exploring Social Activeness and Dynamic Interest in Community-based Recommender system", International World Wide Web Conference (WWW), 2014.
+B. Yin, Y. Yang, and W. Liu, "Exploring Social Activeness and Dynamic Interest in Community-based Recommender system", International World Wide Web Conference (WWW), 2014.<br>
 
-H. Xu, Y. Yang, L. Wang, and W. Liu, "Node classification in social network via a factor graph model", Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2013.
+H. Xu, Y. Yang, L. Wang, and W. Liu, "Node classification in social network via a factor graph model", Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2013.<br>
 
-G. Xun, Y. Yang, and W. Liu, "Latent Community Discovery with Network Regularization for Core Actors Clustering", International Conference on Computational Linguistics (COLING), 2012.
+G. Xun, Y. Yang, and W. Liu, "Latent Community Discovery with Network Regularization for Core Actors Clustering", International Conference on Computational Linguistics (COLING), 2012.<br>
 
-L. SUN, Y. Yang, and W. Liu, "Trended DTW based on piecewise linear approximation for time series mining", IEEE International Conference on Data Mining (ICDM), 2011.
+L. SUN, Y. Yang, and W. Liu, "Trended DTW based on piecewise linear approximation for time series mining", IEEE International Conference on Data Mining (ICDM), 2011.<br>
 
 </div>
 

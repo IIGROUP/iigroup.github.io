@@ -9,9 +9,11 @@ redirect_from:
 
 Lab Introduction
 ------
+<div style="font-size:16px;">
 The Intelligent Interaction Group (IIGROUP) is affiliated with Tsinghua Shenzhen International Graduate School, Tsinghua University. Our vision is to build intelligent systems that can interact with humans.  
-
+<br><br>
 Our current interests in intelligent interactive tasks include pre-training and post-training optimization techniques for large language models, reasoning, multimodal understanding and analysis, and generative AI technology. With applications including computer vision, natural language processing, AI safety, ML interpretability • and others.
+</div>
 
 Research Areas
 ------
@@ -75,6 +77,7 @@ Research Areas
 
 News
 ------
+<div style="font-size:16px;">
 > - [2024/10] Five papers are accepted to NeurIPS 2024. Congratulations to Zhibin Gou, Chufan Shi, Cheng Yang, Tianle Gu, Xinchen Zhang and Yiming Ren! 
 > 
 > - [2024/9] Six papers (5 main conferences, 1 Findings) have been accepted to EMNLP 2024. Congratulations to Tian Liang, Ruilin Luo, Zhibin Gou, Chufan Shi, and Xinyu Zhu! 
@@ -136,3 +139,4 @@ News
 > - [2022/12] Congratulations to Zhibin Gou and Qinyan Guo! They won the championships in NeurIPS2022 IGLU Challenges -NLP Task!
 > 
 > - [2022/10] One paper is accepted to WSDM 2023. Congratulations to Taiqiang Wu! 
+</div>

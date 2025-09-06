@@ -85,7 +85,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Xuewei Yang">
+    <img class="person-photo" src="{{ '../images/members image/yangxuewei.png' | relative_url }}" alt="Xuewei Yang">
     <div class="person-info">
       <span class="person-name">Xuewei Yang</span>
       <p class="person-area">Master. Topic: Natural Language  Processing. (2025- Now)</p>
@@ -159,14 +159,6 @@ Before 2020, our team members are primarily from the Department of Automation an
     <div class="person-info">
       <span class="person-name">Shuoshuo Zhang</span>
       <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
-    </div>
-  </div>
-
-  <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Qinxian Yang">
-    <div class="person-info">
-      <span class="person-name">Qinxian Yang</span>
-      <p class="person-area">Master. (2024- Now)</p>
     </div>
   </div>
 
@@ -635,7 +627,7 @@ Research Assistant and Visiting Scholar
     <img class="person-photo" src="{{ '../images/members image/wangjunjie.jpg' | relative_url }}" alt="Junjie Wang">
     <div class="person-info">
       <a href="https://wangjunjie-ai.github.io/" target="_blank" class="person-name">Junjie Wang</a>
-      <p class="person-area">Visiting Student (currently PhD at Waseda University, JP)</p>
+      <p class="person-area">Postdoc Researcher.</p>
     </div>
   </div>
 

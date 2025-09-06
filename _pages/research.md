@@ -23,7 +23,7 @@ redirect_from:
 **From 2018**
 
 **Journal**
-<div style="font-size:14px;">
+<div style="font-size:16px;">
 1.	<b>[CV]</b> Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
 2.	<b>[CV]</b> Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
 (TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a><br>
@@ -51,7 +51,7 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 
 **Conference**
 
-<div style="font-size:14px;">
+<div style="font-size:16px;">
 
 1.	<b>[CV]</b> Cong Wei, Yujie Zhong, Yingsen Zeng, Haoxian Tan, Yong Liu, Hongfa Wang, Yujiu Yang. “ InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank"><a href="" target="_blank">[PDF]</a><br></a><br>
 2.	<b>[CV]</b> Zhuoyan Luo, Yinghao Wu, Tianheng Cheng, Yong Liu, Yicheng Xiao, Hongfa Wang, Xiao-Ping Zhang, Yujiu Yang. “CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
@@ -62,7 +62,7 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 7.	<b>[NLP]</b> Hengyuan Zhang, Chenming Shang, Sizhe Wang, Dongdong Zhang, Yiyao Yu, Feng Yao, Renliang Sun, Yujiu Yang, Furu Wei . “ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Multilingual Contrastive Framework.” the main conference of the Association for Computational Linguistics, ACL 2025. (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
 8.	<b>[NLP]</b> Zongqi Wang, Baoyuan Wu, Jingyuan Deng, Yujiu Yang. “Robust and Minimally Invasive Watermarking for EaaS.” Findings of the Association for Computational Linguistics, ACL 2025. (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
 9.	<b>[NLP]</b> Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Xiuying Chen, Yujiu Yang, Yan Teng, Yingchun Wang . “From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs.” Findings of the Association for Computational Linguistics, ACL 2025. (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
-10.	<b>[NLP]</b> Zicheng Lin, Tian Liang, Jiahao Xu, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang , Zhaopeng Tu . “Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM’s Reasoning Capability.” Forty-second International Conference on Machine Learning, ICML 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
+10.	<b>[NLP]</b> Zicheng Lin, Tian Liang, Jiahao Xu, Qiuzhi Liu, Xing Wang, Ruilin Luo, Chufan Shi, Siheng Li, Yujiu Yang , Zhaopeng Tu . “Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM’s Reasoning Capability.” Forty-second International Conference on Machine Learning, ICML 2025, (CCF-A), 2025 <a href="https://openreview.net/pdf?id=fnz1g18EdI" target="_blank">[PDF]</a><br>
 11.	<b>[NLP]</b> Yaoxiang Wang, Haoling Li, Xin Zhang, Jie Wu, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang , Jinsong Su, Qi Chen, Scarlett Li . “EpiCoder: Encompassing Diversity and Complexity in Code Generation.” Forty-second International Conference on Machine Learning, ICML 2025, (CCF-A), 2025
 <a href="" target="_blank">[PDF]</a><br>
 12.	<b>[CV]</b> Cong Wei, Haoxian Tan, Yujie Zhong, Yong Liu, Jie Hu, Dengjie Li, Zheng Zhao, Yujiu Yang . “HyperSeg: Hybrid Segmentation Assistant with Fine-grained Visual Perceiver.” Conference on Computer Vision and Pattern Recognition 2025, CVPR 2025, (CCF-A), 2025 <a href="" target="_blank">[PDF]</a><br>
@@ -194,7 +194,7 @@ Classification.” the Thirty-Second AAAI Conference on Artificial Intelligence,
 </div>
 
 **Before 2018**
-<div style="font-size:14px;">
+<div style="font-size:16px;">
 X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.
 
 Z. Jin, Y. Yang, X. Bao, B. Huang, "Combining User-based and Global Lexicon Features for Sentiment Analysis in Twitter", International Joint Conference on Neural Networks (IJCNN), 2016.

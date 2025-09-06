@@ -643,7 +643,7 @@ Research Assistant and Visiting Scholar
     <img class="person-photo" src="{{ '../images/members image/yukejin.png' | relative_url }}" alt="Kejin Yu">
     <div class="person-info">
       <span class="person-name">Kejin Yu</span>
-      <p class="person-area">Visiting Student (currently undergraduate student at THU)</p>
+      <p class="person-area">Visiting Student (currently undergraduate at THU)</p>
     </div>
   </div>
 

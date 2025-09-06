@@ -12,42 +12,47 @@ Yujiu Yang
 
 <img src="../images/Team Leader.png" width="168" height="240" div align=right>
 Professor, PhD/Master Advisor
-
+<div style="font-size:16px;">
 Dr. Yujiu Yang is currently a professor at Tsinghua Shenzhen International Graduate School, Tsinghua University. He received his Ph.D. degree from the Institute of Automation, the Chinese Academy of Sciences.  His research interests include Machine learning, basic research in artificial intelligence and its applications in natural language processing, visual content creation, and image understanding. 
+</div>
 
 Research Interest
 ------
+<div style="font-size:16px;">
 My research interests include machine learning, basic research in artificial intelligence, and their applications in natural language processing, visual content creation, and understanding. My research goal is to utilize artificial intelligence techniques to enable machines to perceive and interact with their surrounding environment.
+</div>
 
 Awards
 ------
-2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+<div style="font-size:16px;">
+2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.<br><br>
 
-2024 The First Prize of Natural Science Award (Grade 1) of Xinjiang Uygur Autonomous Region, China.
+2024 The First Prize of Natural Science Award (Grade 1) of Xinjiang Uygur Autonomous Region, China.<br><br>
 
-2022 The First Prize of Scientific and Technological Progress Award (Grade 1) of Guangdong Province, China.
+2022 The First Prize of Scientific and Technological Progress Award (Grade 1) of Guangdong Province, China.<br><br>
 
-2021 The Second Prize of Scientific and Technological Progress Award (Grade 2) of Shenzhen City, Guangdong Province, China.
+2021 The Second Prize of Scientific and Technological Progress Award (Grade 2) of Shenzhen City, Guangdong Province, China.<br><br>
 
-2020 The First Prize of WU Wenjun AI Science and Technology Award (Grade 1), Chinese Association for Artificial Intelligence, China.
+2020 The First Prize of WU Wenjun AI Science and Technology Award (Grade 1), Chinese Association for Artificial Intelligence, China.<br><br>
 
-2018 Scientific and Technological Progress Award (Grade 3) of Guangdong Province, China.
+2018 Scientific and Technological Progress Award (Grade 3) of Guangdong Province, China.<br><br>
 
-2021 Teaching Achievement Award (Grade 2) of Tsinghua University, China
+2021 Teaching Achievement Award (Grade 2) of Tsinghua University, China<br><br>
 
-2023 Outstanding Mentor Award on Tencent’s Rhino-Bird Elite Talent Program, Tencent.
+2023 Outstanding Mentor Award on Tencent’s Rhino-Bird Elite Talent Program, Tencent.<br><br>
 
-2023 Excellent Mentor Award on Tencent’s Rhino-Bird Elite Talent Program, Tencent.
+2023 Excellent Mentor Award on Tencent’s Rhino-Bird Elite Talent Program, Tencent.<br><br>
 
-2020 First Prize in CAAI Wu Wenjun Artificial Intelligence Science and Technology Award (Ranked 2nd in the awardee list).
+2020 First Prize in CAAI Wu Wenjun Artificial Intelligence Science and Technology Award (Ranked 2nd in the awardee list).<br><br>
 
-2016 Guangdong Science and Technology Progress Award, Third Prize (Ranked 1st in the awardee list).
+2016 Guangdong Science and Technology Progress Award, Third Prize (Ranked 1st in the awardee list).<br><br>
 
-2014 Guangdong Science and Technology Progress Award, First Prize (广东省科学技术进步奖一等奖).
+2014 Guangdong Science and Technology Progress Award, First Prize (广东省科学技术进步奖一等奖).<br><br>
 
-2015 Shenzhen Science and Technology Progress Award, Second Prize (Ranked 1st in the awardee list).
+2015 Shenzhen Science and Technology Progress Award, Second Prize (Ranked 1st in the awardee list).<br><br>
 
 2014 Best Paper Honorable Mention, ICIST.
+</div>
 
 Academic Services
 ------

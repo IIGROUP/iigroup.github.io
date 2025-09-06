@@ -21,9 +21,9 @@ redirect_from:
 **From 2018**
 
 **Journal**
-<div style="font-size:14px;">
+<font size="3">
 
-1.	**[CV]** Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
+1.	[CV] Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
 2.	[CV] Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
 (TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a>
 3.	[CV] Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang. “GAN Inversion: A
@@ -50,7 +50,7 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 19.	[NLP] Lifang Ding, Zeyang Lei, Guangxu Xun, Yujiu Yang. “FAT-RE: A faster dependency-free model for relation extraction.” J. Web Semant, Vol:65, 100598 , 2020 (SCI Q3 IF=2.5) <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300366?via%3Dihub" target="_blank">[PDF]</a>
 20.	[CV] Ronald Wihal Oei, Guanqun Hou, Fuhai Liu, Jin Zhong, Jiewen Zhang, Zhaoyi An, Luping Xu, Yujiu Yang. “Convolutional neural network for cell classification using microscope images of intracellular actin networks.” PLoS ONE, Vol 14(3): e0213626, 2019 (SCI Q2 IF=3.7) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213626" target="_blank">[PDF]</a>
 
-</div>
+</font>
 
 **Conference**
 

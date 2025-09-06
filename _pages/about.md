@@ -22,7 +22,7 @@ Research Interest
 My research interests include machine learning, basic research in artificial intelligence, and their applications in natural language processing, visual content creation, and understandin. My research goal is to utilize artificial intelligence techniques to enable machines to perceive and interact with their surrounding environment.
 </div>
 
-<h3>Awards</h3>
+<h2>Awards</h2>
 <div style="font-size:16px;">
   <ul>
     <li>2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.</li>
@@ -42,7 +42,7 @@ My research interests include machine learning, basic research in artificial int
   </ul>
 </div>
 
-<h3>Academic Services</h3>
+<h2>Academic Services</h2>
 <div style="font-size:16px;">
   <p><b>Guest Editor：</b></p>
   <ul>

@@ -10,7 +10,7 @@ redirect_from:
 Team Leader
 ------
 <div class="people-grid no-divider">
-  <!-- 卡片 1 -->
+  
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/Team Leader-Members.png' | relative_url }}" alt="Team Leader">
     <div class="person-info">
@@ -18,6 +18,23 @@ Team Leader
       <p class="person-area">Professor</p>
     </div>
   </div>
+  
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wangjunjie.jpg' | relative_url }}" alt="Junjie Wang">
+    <div class="person-info">
+      <a href="https://wangjunjie-ai.github.io/" target="_blank" class="person-name">Junjie Wang</a>
+      <p class="person-area">Postdoc Researcher</p>
+    </div>
+  </div>
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/churuihang.png' | relative_url }}" alt="Ruihang Chu">
+    <div class="person-info">
+      <a href="https://ruihang-chu.github.io/" target="_blank" class="person-name">Ruihang Chu</a>
+      <p class="person-area">Postdoc Researcher</p>
+    </div>
+  </div>
+
 </div>
 
 Students
@@ -308,7 +325,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Haokang Zhang">
+    <img class="person-photo" src="{{ '../images/members image/zhanghaokang.png' | relative_url }}" alt="Haokang Zhang">
     <div class="person-info">
       <span class="person-name">Haokang Zhang</span>
       <p class="person-area">Master. Topic: Computer Vision. (2023- Now)</p>
@@ -622,12 +639,11 @@ Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2
 Research Assistant and Visiting Scholar
 ------
 <div class="people-grid no-divider">
-
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/members image/wangjunjie.jpg' | relative_url }}" alt="Junjie Wang">
+    <img class="person-photo" src="{{ '../images/members image/yukejin.png' | relative_url }}" alt="Kejin Yu">
     <div class="person-info">
-      <a href="https://wangjunjie-ai.github.io/" target="_blank" class="person-name">Junjie Wang</a>
-      <p class="person-area">Postdoc Researcher.</p>
+      <span class="person-name">Kejin Yu</span>
+      <p class="person-area">Visiting Student (currently undergraduate student at THU)</p>
     </div>
   </div>
 

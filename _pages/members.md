@@ -150,7 +150,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/wangzongqi.png' | relative_url }}" alt="Zongqi Wang">
     <div class="person-info">
       <a href="https://scholar.google.com/citations?hl=en&user=dbCdFjoAAAAJ&view_op=list_works" target="_blank" class="person-name">Zongqi Wang</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -158,7 +158,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/zhangshuoshuo.png' | relative_url }}" alt="Shuoshuo Zhang">
     <div class="person-info">
       <span class="person-name">Shuoshuo Zhang</span>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -174,7 +174,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/wujie.png' | relative_url }}" alt="Jie Wu">
     <div class="person-info">
       <a href="https://jiewu02.github.io/" target="_blank" class="person-name">Jie Wu</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -182,7 +182,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/zhangxinchen.png' | relative_url }}" alt="Xinchen Zhang">
     <div class="person-info">
       <a href="https://cominclip.github.io" target="_blank" class="person-name">Xinchen Zhang</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -206,7 +206,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yang Ding">
     <div class="person-info">
       <a href="https://zsgvivo.github.io/" target="_blank" class="person-name">Yang Ding</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -222,7 +222,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/gaomeng.png' | relative_url }}" alt="Meng Gao">
     <div class="person-info">
       <span class="person-name">Meng Gao</span>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -230,7 +230,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/liufengkai.png' | relative_url }}" alt="Fengkai Liu">
     <div class="person-info">
       <a href="https://liufeeky.github.io/" target="_blank" class="person-name">Fengkai Liu</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 
@@ -238,7 +238,7 @@ Before 2020, our team members are primarily from the Department of Automation an
     <img class="person-photo" src="{{ '../images/members image/zhangyizhen.png' | relative_url }}" alt="Yizhen Zhang">
     <div class="person-info">
       <a href="https://alchemistyzz.github.io/" target="_blank" class="person-name">Yizhen Zhang</a>
-      <p class="person-area">Master. (2024- Now)</p>
+      <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>
     </div>
   </div>
 

@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yujiu Yang
-------
+<h2>Yujiu Yang</h2>
 
 <img src="../images/Team Leader.png" width="168" height="240" div align=right>
 Professor, PhD/Master Advisor
@@ -16,8 +15,8 @@ Professor, PhD/Master Advisor
 Dr. Yujiu Yang is currently a professor at Tsinghua Shenzhen International Graduate School, Tsinghua University. He received his Ph.D. degree from the Institute of Automation, the Chinese Academy of Sciences. His research interests include Machine learning, basic research in artificial intelligence and its applications in natural language processing, visual content creation, and image understanding.
 </div>
 
-Research Interest
-------
+<h2>Research Interest</h2>
+
 <div style="font-size:16px;">
 My research interests include machine learning, basic research in artificial intelligence, and their applications in natural language processing, visual content creation, and understandin. My research goal is to utilize artificial intelligence techniques to enable machines to perceive and interact with their surrounding environment.
 </div>
@@ -81,8 +80,7 @@ My research interests include machine learning, basic research in artificial int
 </div>
 
 
-Grants
-------
+<h2>Grants</h2>
 <div style="font-size:16px;">
   <ul>
     <li>National Natural Science Foundation of China (61991451), On the fundamental theory and key techniques for scattering optical imaging in the marine environment, 2020-2024;</li>
@@ -94,8 +92,7 @@ Grants
 </div>
 
 
-Teaching
-------
+<h2>Teaching</h2>
 <div style="font-size:16px;">
   <ul>
       <li>Teaching: Selected Topics on Intelligent Information Processing (智能信息处理专题)、Introduction to Statistical Learning Theory (统计学习理论导论)</li>

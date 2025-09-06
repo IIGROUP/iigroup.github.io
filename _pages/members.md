@@ -7,7 +7,7 @@ redirect_from:
   - /members.html
 ---
 
-Team Leader
+👨🏻‍🏫 Team Leader
 ------
 <div class="people-grid no-divider">
   
@@ -18,7 +18,13 @@ Team Leader
       <p class="person-area">Professor</p>
     </div>
   </div>
-  
+
+</div>
+
+👨🏻‍💼 Postdoc Researcher
+------
+<div class="people-grid no-divider">
+
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/wangjunjie.jpg' | relative_url }}" alt="Junjie Wang">
     <div class="person-info">
@@ -37,7 +43,7 @@ Team Leader
 
 </div>
 
-Students
+👩🏻‍🎓 Students 👨🏻‍🎓
 ------
 Before 2020, our team members are primarily from the Department of Automation and Open Faculty for Innovation, Education, Science, Technology, and Art (Open FIESTA).  Since 2020,  our Group has been affiliated with Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, and members are from two master's programs: Big Data Engineering and Engineering of Artificial Intelligence in Electronic Information, and two master's programs at Open FIESTA: BIO³ (Bio-Nano-Info)  and Internet + Innovation Design (IID).  
 
@@ -636,7 +642,7 @@ Xu Huang: Master in Control  Engineering,  Department of Automation. (2014-2017,
 Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2017, currently at Netease)
 
 
-Research Assistant and Visiting Scholar
+👩🏻‍💻 Research Assistant and Visiting Scholar 👨🏻‍💻
 ------
 <div class="people-grid no-divider">
   <div class="person-card">

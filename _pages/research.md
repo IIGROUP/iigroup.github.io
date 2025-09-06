@@ -7,28 +7,6 @@ redirect_from:
   - /research.html
 ---
 
-💡 Projects
-------
-
-<div class="projects-container">
-  <a class="project-card" href="https://github.com/IIGROUP/MM-CelebA-HQ-Dataset" target="_blank" rel="noopener">
-    <img class="project-thumb" src="{{ '../images/MM-CelebA-HQ-Dataset.png' | relative_url }}" alt="Project XYZ">
-    <div class="project-info">
-      <h3>Multi-Modal-CelebA-HQ</h3>
-      <p>Multi-Modal-CelebA-HQ (MM-CelebA-HQ) is a dataset containing 30,000 high-resolution face images selected from CelebA, following CelebA-HQ. Each image in the dataset is accompanied by a semantic mask, sketch, descriptive text, and an image with a transparent background.</p>
-    </div>
-  </a>
-
-  <a class="project-card" href="https://github.com/IIGROUP/MANIQA" target="_blank" rel="noopener">
-    <img class="project-thumb" src="{{ '../images/MANIQA.png' | relative_url }}" alt="Project ABC">
-    <div class="project-info">
-      <h3>MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment</h3>
-      <p>MANIQA is a ViT‑based no‑reference image quality assessment model using advanced attention blocks and a patch‑weighted prediction scheme, outperforming state‑of‑the‑art methods on multiple datasets and winning the NTIRE 2022 NR‑IQA challenge.</p>
-    </div>
-  </a>
-
-  <!-- 可继续添加更多项目卡片 -->
-</div>
 
 🏆 Awards
 ------
@@ -37,38 +15,42 @@ redirect_from:
   <img src="{{ '../images/NeurIPS Best Paper Runner-up.png' | relative_url }}" width="329.2" height="256" alt="NeurIPS Best Paper Runner-up">
 </div>
 
+
 📕 Publications
 ------
 **From 2018**
 
 **Journal**
+<div style="font-size:14px;">
 
-1.	[CV] Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) [PDF]
+1.	[CV] Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a>
 2.	[CV] Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
-(TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) [PDF]
+(TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a>
 3.	[CV] Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang. “GAN Inversion: A
-Survey.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol:45(3), 3121-3138,2023 (SCI Q1 IF=23.6) [PDF]
-4.	[CV] Gongye Liu, Menghan Xia, Yong Zhang, Haoxin Chen, Jinbo Xing, Xintao Wang, Yujiu Yang, Ying Shan. “StyleCrafter: Taming Artistic Video Diffusion with Reference-Augmented Adapter Learning.” ACM Transactions on Graphics (TOG), vol:43(6), 251:1-251:10,2024 (SCI Q1 IF=6.2) [PDF]
-5.	[NLP] Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang:. “Exploring Human-Like Translation Strategy with Large Language Models.” Transactions of the Association for Computational Linguistics (TACL), vol:12, 229–246, 2024 (SCI Q1 IF=10.9) [PDF]
-6.	[NLP] Cheng Yang, Guoping Huang, Mo Yu, Zhirui Zhang, Siheng Li, Mingming Yang, Shuming Shi, Yujiu Yang, Lemao Liu:. “An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation.” Transactions of the Association for Computational Linguistics (TACL), vol:12, 137–156,2024 (SCI Q1 IF=10.9) [PDF]
-7.	[NLP] Siheng Li, Cheng Yang, Taiqiang Wu, Chufan Shi, Yuji Zhang, Xinyu Zhu, Zesen Cheng, Deng Cai, Mo Yu, Lemao Liu, Jie Zhou, Yujiu Yang, Ngai Wong, Xixin Wu, Wai Lam:. “A Survey on the Honesty of Large Language Models.” Transactions on Machine Learning Research (TMLR), March 2025 [PDF]
-8.	[CV] Yiji Cheng, Fei Yin, Xiaoke Huang, Xintong Yu, Jiaxiang Liu, Shikun Feng, Yujiu Yang, Yansong Tang. “Efficient Text-Guided 3D-Aware Generation with Score Distillation on 3D Distribution.” IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Early Access (SCI Q1 IF=8.4) [PDF]
+Survey.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol:45(3), 3121-3138,2023 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/9792208" target="_blank">[PDF]</a>
+4.	[CV] Gongye Liu, Menghan Xia, Yong Zhang, Haoxin Chen, Jinbo Xing, Xintao Wang, Yujiu Yang, Ying Shan. “StyleCrafter: Taming Artistic Video Diffusion with Reference-Augmented Adapter Learning.” ACM Transactions on Graphics (TOG), vol:43(6), 251:1-251:10,2024 (SCI Q1 IF=6.2) <a href="https://dl.acm.org/doi/10.1145/3687975" target="_blank">[PDF]</a>
+5.	[NLP] Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi, Xing Wang:. “Exploring Human-Like Translation Strategy with Large Language Models.” Transactions of the Association for Computational Linguistics (TACL), vol:12, 229–246, 2024 (SCI Q1 IF=10.9) <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00642/119992" target="_blank">[PDF]</a>
+6.	[NLP] Cheng Yang, Guoping Huang, Mo Yu, Zhirui Zhang, Siheng Li, Mingming Yang, Shuming Shi, Yujiu Yang, Lemao Liu:. “An Energy-based Model for Word-level AutoCompletion in Computer-aided Translation.” Transactions of the Association for Computational Linguistics (TACL), vol:12, 137–156,2024 (SCI Q1 IF=10.9) <a href="https://watermark02.silverchair.com/tacl_a_00637.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0owggNGBgkqhkiG9w0BBwagggM3MIIDMwIBADCCAywGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzchBJN3H-fwSntlFAgEQgIIC_W6Q3aDJt1KZoyCjS8XsDEEGhPtCgTbpqf5Kh8mLSSsyAeGwC5ZYOpCl2-ktW0Y3Rfs72oqnCSHTWOSR6EZhTPsgSa4H0riNjdgIADm4MBC8XmzA_5iTNX3SDqfaIFNzlqZyLrmRhG87S5Ljfkwy7MAxUDw_z6YF5O2VYYyZhmfT_3VpRFakbT9rAxc9WWeCAuQKQ_EaVfR9AAaD5VP4xpUU9muRqTF1BoOovD0Wm1wz_rLcWldZ3WMLS4u1xLyxpEkCltrXS-8QByBKbsvmCklERKd6kh1eAjWfdAMnRGA0-lGwmOEiNRQ-grbBk5Z8S59FCaPS0r-zBo0rlVOpNFNWKjUn_u0SzXuj1kbaL7WssIQDe4c27tJBeugCiOofYPFbPWPn5p6-3bZGcEf6pPqzsX7ZDGTWoHmFL8k1msU16NlHsMhtKu2NVIqtWKmM1gXbyM5I_X0TPGop5A7EkeNf-R0m3xciOGDTM9iLWGumkPHpYzRGCkl80VYokt5rWiM72lbPxTDihs3ovK5QF_daBI0ZXqobNb6borJzTDrnt86HvMqBQK5QPJH7O04NiTtoWuLgWb__ZBVMOpDY09RCoh8voR-j6InUEa_Qc4Kn5t4jT2WqeLUrJEnsdaCpfadgWAbDSfUkvwXI9Um-_0QR7hmIaL9d3QRlublgpSIbF-a1j5KFGkXJBJkL-3RJfgi9iMMtyMiDk4iJAEivlH0FaqQANX2lDfr8luoQ0cLveVDury4cFEJk1Z5etOjiYXZNqQMDZEzMNvupFnbEHQ0XEFniOWEeccNQm1NHqOPL7xn_g5_WhDq4iZ6JeX6h_taNDS1a_-69d71SKinvgz5wQZls4J8p5O2sYMeTc1OFTWr0GxxpBV4VIcg5KerRWQQ_jct7cN30plO4RD6-l7ek8ExnW3Lj26kCuyukKgl1Xo1BzoUkkmfoddQAdgw-ctU2E-0cl8OzeuaDvH10MFXzCMz5jYBJ_3PcbXGpTCMq7KgzyBPPyyu-UA494w" target="_blank">[PDF]</a>
+7.	[NLP] Siheng Li, Cheng Yang, Taiqiang Wu, Chufan Shi, Yuji Zhang, Xinyu Zhu, Zesen Cheng, Deng Cai, Mo Yu, Lemao Liu, Jie Zhou, Yujiu Yang, Ngai Wong, Xixin Wu, Wai Lam:. “A Survey on the Honesty of Large Language Models.” Transactions on Machine Learning Research (TMLR), March 2025 <a href="https://openreview.net/pdf?id=FJgtVfUxLQ" target="_blank">[PDF]</a>
+8.	[CV] Yiji Cheng, Fei Yin, Xiaoke Huang, Xintong Yu, Jiaxiang Liu, Shikun Feng, Yujiu Yang, Yansong Tang. “Efficient Text-Guided 3D-Aware Generation with Score Distillation on 3D Distribution.” IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Early Access (SCI Q1 IF=8.4) <a href="https://ieeexplore.ieee.org/document/10963753" target="_blank">[PDF]</a>
 9.	[CV] Haoze Sun, Chenyu Tian, Jing Xiao, Yujiu Yang. “Learn Stable MRI Under-Sampling Pattern With
-Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI), vol:10, 246-260, 2024 (SCI Q1 IF=5.4) [PDF]
-10.	[CV] Mingdeng Cao, Yanbo Fan, Yong Zhang, Jue Wang, Yujiu Yang. “VDTR: Video Deblurring With Transformer.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), vol:33(1), 160-171, 2023 (SCI Q1 IF=8.4) [PDF]
-11.	[CV] Shengjie Chen, Gang Wu, Yujiu Yang, Zhenhua Guo. “A simple and effective patch-Based method for frame-level face anti-spoofing.” Pattern Recognit. Lett. (PRL) , Vol:171, 1-7, 2023 (SCI Q2 IF=5.1) [PDF]
-12.	[CV] Lei Shi, Sheng Lan, Hao Gui, Yujiu Yang, Zhenhua Guo. “A novel 2D contactless fingerprint matching method.” Neurocomputing, Vol:500, 547-555,2022 (SCI Q2 IF=6) [PDF]
+Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI), vol:10, 246-260, 2024 (SCI Q1 IF=5.4) <a href="https://ieeexplore.ieee.org/document/9864614" target="_blank">[PDF]</a>
+10.	[CV] Mingdeng Cao, Yanbo Fan, Yong Zhang, Jue Wang, Yujiu Yang. “VDTR: Video Deblurring With Transformer.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), vol:33(1), 160-171, 2023 (SCI Q1 IF=8.4) <a href="https://ieeexplore.ieee.org/document/9864614" target="_blank">[PDF]</a>
+11.	[CV] Shengjie Chen, Gang Wu, Yujiu Yang, Zhenhua Guo. “A simple and effective patch-Based method for frame-level face anti-spoofing.” Pattern Recognit. Lett. (PRL) , Vol:171, 1-7, 2023 (SCI Q2 IF=5.1) <a href="https://www.sciencedirect.com/science/article/pii/S0167865523001198?via%3Dihub" target="_blank">[PDF]</a>
+12.	[CV] Lei Shi, Sheng Lan, Hao Gui, Yujiu Yang, Zhenhua Guo. “A novel 2D contactless fingerprint matching method.” Neurocomputing, Vol:500, 547-555,2022 (SCI Q2 IF=6) <a href="https://www.sciencedirect.com/science/article/pii/S0925231222006749?via%3Dihub" target="_blank">[PDF]</a>
 13.	[CV] Ran Yu, Chenyu Tian, Weihao Xia, Xinyuan Zhao, Liejun Wang, Yujiu Yang. “Real-time human-centric segmentation for complex video scenes.” Image Vis. Comput.(IMVC), Vol:126, 104552, 2022 (SCI Q2 IF=4.7)
-[PDF]
+<a href="https://www.sciencedirect.com/science/article/pii/S0262885622001810?via%3Dihub" target="_blank">[PDF]</a>
 14.	[NLP] Yiru Wang, Pengda Si, Zeyang Lei, Guangxu Xun, Yujiu Yang. “HSCJN: A holistic semantic constraint joint network for diverse response generation.” Comput. Speech Lang. , Vol:65, 101135, 2021 (SCI Q2 IF=4.3)
-[PDF]
-15.	[CV] Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Cali-sketch: Stroke calibration and completion for high-quality face image generation from human-like sketches.” Neurocomputing, Vol:460, 256-265,2021 (SCI Q2 IF=6) [PDF]
-16.	[DM] Shuang Huang, Yujiu Yang, Biqing Huang. “Health Status Analysis and Optimization of Load Dispatch for Power Plant Boiler.” Journal of Computing and Information Science and Engineering, Vol:21(1): 011004, 2021 (SCI Q3 IF=3.1) [PDF]
+<a href="https://www.sciencedirect.com/science/article/pii/S0885230820300681?via%3Dihub" target="_blank">[PDF]</a>
+15.	[CV] Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Cali-sketch: Stroke calibration and completion for high-quality face image generation from human-like sketches.” Neurocomputing, Vol:460, 256-265,2021 (SCI Q2 IF=6) <a href="https://www.sciencedirect.com/science/article/pii/S0925231221010730?via%3Dihub" target="_blank">[PDF]</a>
+16.	[DM] Shuang Huang, Yujiu Yang, Biqing Huang. “Health Status Analysis and Optimization of Load Dispatch for Power Plant Boiler.” Journal of Computing and Information Science and Engineering, Vol:21(1): 011004, 2021 (SCI Q3 IF=3.1) <a href="https://asmedigitalcollection.asme.org/computingengineering/article/21/1/011004/1085032/Health-Status-Analysis-and-Optimization-of-Load" target="_blank">[PDF]</a>
 17.	[CV] Weihao Xia, Yujiu Yang, Jing-Hao Xue, Jing Xiao. “Domain Fingerprints for No-Reference Image Quality Assessment.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), Vol:31(4), 1332-1341, 2021 (SCI Q1 IF=8.4)
-[PDF]
-18.	[CV] Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Unsupervised multi-domain multimodal image-to-image translation with explicit domain-constrained disentanglement.” Neural Networks (NN), Vol:131, 50-63, 2020 (SCI Q1 IF=7.8) [PDF]
-19.	[NLP] Lifang Ding, Zeyang Lei, Guangxu Xun, Yujiu Yang. “FAT-RE: A faster dependency-free model for relation extraction.” J. Web Semant, Vol:65, 100598 , 2020 (SCI Q3 IF=2.5) [PDF]
-20.	[CV] Ronald Wihal Oei, Guanqun Hou, Fuhai Liu, Jin Zhong, Jiewen Zhang, Zhaoyi An, Luping Xu, Yujiu Yang. “Convolutional neural network for cell classification using microscope images of intracellular actin networks.” PLoS ONE, Vol 14(3): e0213626, 2019 (SCI Q2 IF=3.7) [PDF]
+<a href="https://ieeexplore.ieee.org/document/9117098" target="_blank">[PDF]</a>
+18.	[CV] Weihao Xia, Yujiu Yang, Jing-Hao Xue. “Unsupervised multi-domain multimodal image-to-image translation with explicit domain-constrained disentanglement.” Neural Networks (NN), Vol:131, 50-63, 2020 (SCI Q1 IF=7.8) <a href="https://www.sciencedirect.com/science/article/pii/S0893608020302641?via%3Dihub" target="_blank">[PDF]</a>
+19.	[NLP] Lifang Ding, Zeyang Lei, Guangxu Xun, Yujiu Yang. “FAT-RE: A faster dependency-free model for relation extraction.” J. Web Semant, Vol:65, 100598 , 2020 (SCI Q3 IF=2.5) <a href="https://www.sciencedirect.com/science/article/pii/S1570826820300366?via%3Dihub" target="_blank">[PDF]</a>
+20.	[CV] Ronald Wihal Oei, Guanqun Hou, Fuhai Liu, Jin Zhong, Jiewen Zhang, Zhaoyi An, Luping Xu, Yujiu Yang. “Convolutional neural network for cell classification using microscope images of intracellular actin networks.” PLoS ONE, Vol 14(3): e0213626, 2019 (SCI Q2 IF=3.7) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213626" target="_blank">[PDF]</a>
+
+</div>
 
 **Conference**
 
@@ -231,3 +213,23 @@ H. Xu, Y. Yang, L. Wang, and W. Liu, "Node classification in social network via 
 G. Xun, Y. Yang, and W. Liu, "Latent Community Discovery with Network Regularization for Core Actors Clustering", International Conference on Computational Linguistics (COLING), 2012.
 
 L. SUN, Y. Yang, and W. Liu, "Trended DTW based on piecewise linear approximation for time series mining", IEEE International Conference on Data Mining (ICDM), 2011.
+
+<!-- 项目卡片 -->
+<!-- <div class="projects-container">
+  <a class="project-card" href="https://github.com/IIGROUP/MM-CelebA-HQ-Dataset" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '../images/MM-CelebA-HQ-Dataset.png' | relative_url }}" alt="Project XYZ">
+    <div class="project-info">
+      <h3>Multi-Modal-CelebA-HQ</h3>
+      <p>Multi-Modal-CelebA-HQ (MM-CelebA-HQ) is a dataset containing 30,000 high-resolution face images selected from CelebA, following CelebA-HQ. Each image in the dataset is accompanied by a semantic mask, sketch, descriptive text, and an image with a transparent background.</p>
+    </div>
+  </a>
+
+  <a class="project-card" href="https://github.com/IIGROUP/MANIQA" target="_blank" rel="noopener">
+    <img class="project-thumb" src="{{ '../images/MANIQA.png' | relative_url }}" alt="Project ABC">
+    <div class="project-info">
+      <h3>MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment</h3>
+      <p>MANIQA is a ViT‑based no‑reference image quality assessment model using advanced attention blocks and a patch‑weighted prediction scheme, outperforming state‑of‑the‑art methods on multiple datasets and winning the NTIRE 2022 NR‑IQA challenge.</p>
+    </div>
+  </a>
+
+</div> -->

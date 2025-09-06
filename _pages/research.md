@@ -10,7 +10,9 @@ redirect_from:
 
 🏆 Awards
 ------
+<font size="3">
 2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+</font>
 <div align="center">
   <img src="{{ '../images/NeurIPS Best Paper Runner-up.png' | relative_url }}" width="329.2" height="256" alt="NeurIPS Best Paper Runner-up">
 </div>
@@ -21,10 +23,11 @@ redirect_from:
 **From 2018**
 
 **Journal**
+
 <font size="3">
 
-1.	**[CV]** Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
-2.	[CV] Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
+1.	<b>[CV]</b> Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a><br>
+2.	<b>[CV]</b> Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
 (TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a><br>
 3.	[CV] Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang. “GAN Inversion: A
 Survey.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol:45(3), 3121-3138,2023 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/9792208" target="_blank">[PDF]</a><br>
@@ -36,7 +39,7 @@ Survey.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI
 9.	[CV] Haoze Sun, Chenyu Tian, Jing Xiao, Yujiu Yang. “Learn Stable MRI Under-Sampling Pattern With
 Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI), vol:10, 246-260, 2024 (SCI Q1 IF=5.4) <a href="https://ieeexplore.ieee.org/document/9864614" target="_blank">[PDF]</a><br>
 10.	[CV] Mingdeng Cao, Yanbo Fan, Yong Zhang, Jue Wang, Yujiu Yang. “VDTR: Video Deblurring With Transformer.” IEEE Trans. Circuits Syst. Video Technol.(TCSVT), vol:33(1), 160-171, 2023 (SCI Q1 IF=8.4) <a href="https://ieeexplore.ieee.org/document/9864614" target="_blank">[PDF]</a><br>
-11.	[CV] Shengjie Chen, Gang Wu, Yujiu Yang, Zhenhua Guo. “A simple and effective patch-Based method for frame-level face anti-spoofing.” Pattern Recognit. Lett. (PRL) , Vol:171, 1-7, 2023 (SCI Q2 IF=5.1) <a href="https://www.sciencedirect.com/science/article/pii/S0167865523001198?via%3Dihub" target="_blank">[PDF]</a>
+11.	[CV] Shengjie Chen, Gang Wu, Yujiu Yang, Zhenhua Guo. “A simple and effective patch-Based method for frame-level face anti-spoofing.” Pattern Recognit. Lett. (PRL) , Vol:171, 1-7, 2023 (SCI Q2 IF=5.1) <a href="https://www.sciencedirect.com/science/article/pii/S0167865523001198?via%3Dihub" target="_blank">[PDF]</a><br>
 12.	[CV] Lei Shi, Sheng Lan, Hao Gui, Yujiu Yang, Zhenhua Guo. “A novel 2D contactless fingerprint matching method.” Neurocomputing, Vol:500, 547-555,2022 (SCI Q2 IF=6) <a href="https://www.sciencedirect.com/science/article/pii/S0925231222006749?via%3Dihub" target="_blank">[PDF]</a><br>
 13.	[CV] Ran Yu, Chenyu Tian, Weihao Xia, Xinyuan Zhao, Liejun Wang, Yujiu Yang. “Real-time human-centric segmentation for complex video scenes.” Image Vis. Comput.(IMVC), Vol:126, 104552, 2022 (SCI Q2 IF=4.7)
 <a href="https://www.sciencedirect.com/science/article/pii/S0262885622001810?via%3Dihub" target="_blank">[PDF]</a><br>
@@ -53,6 +56,8 @@ Decoupled Sampling Preference.” IEEE Transactions on Computational Imaging(TCI
 </font>
 
 **Conference**
+
+<font size="3">
 
 1.	[CV] Cong Wei, Yujie Zhong, Yingsen Zeng, Haoxian Tan, Yong Liu, Hongfa Wang, Yujiu Yang. “ InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 [PDF]
 2.	[CV] Zhuoyan Luo, Yinghao Wu, Tianheng Cheng, Yong Liu, Yicheng Xiao, Hongfa Wang, Xiao-Ping Zhang, Yujiu Yang. “CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation.” International Conference on Computer Vision 2025, ICCV 2025, (CCF-A), 2025 [PDF]
@@ -192,7 +197,11 @@ Classification.” the Thirty-Second AAAI Conference on Artificial Intelligence,
 118.	[NLP] Zeyang Lei, Yujiu Yang, Min Yang. “SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis.” The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, (CCF-A), pp.1197-1200, 2018 [PDF]
 119.	[NLP] Zeyang Lei, Yujiu Yang, Yi Liu. “LAAN: A Linguistic-Aware Attention Network for Sentiment Analysis.” the The Web Conference 2018 on The Web Conference 2018, WWW 2018, (CCF-A), pp.47-48, 2018 [PDF]
 
+</font>
+
 **Before 2018**
+
+<font size="3">
 
 X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.
 
@@ -213,6 +222,8 @@ H. Xu, Y. Yang, L. Wang, and W. Liu, "Node classification in social network via 
 G. Xun, Y. Yang, and W. Liu, "Latent Community Discovery with Network Regularization for Core Actors Clustering", International Conference on Computational Linguistics (COLING), 2012.
 
 L. SUN, Y. Yang, and W. Liu, "Trended DTW based on piecewise linear approximation for time series mining", IEEE International Conference on Data Mining (ICDM), 2011.
+
+</font>
 
 <!-- 项目卡片 -->
 <!-- <div class="projects-container">

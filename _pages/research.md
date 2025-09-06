@@ -11,57 +11,43 @@ redirect_from:
 🏆 Awards
 ------
 <div style="font-size:16px;">
-1. 2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.
-</div>
-<div align="center">
-  <img src="{{ '../images/NeurIPS Best Paper Runner-up.png' | relative_url }}" width="329.2" height="256" alt="NeurIPS Best Paper Runner-up">
-</div>
-<div style="font-size:16px;">
-2. 2023 ICCV Win the 1ST PLACE AWARD in the Referring Video Object Segmentation Track, 5th Large-Scale Video Object Segmentation Challenge.
-</div>
-<div align="center">
-  <img src="{{ '../images/2023ICCV.png' | relative_url }}" width="329.2" height=auto alt="2023 ICCV">
-</div>
-<div style="font-size:16px;">
-3. 2022 年度广东省科技进步奖一等奖</li>
-   First Prize, Guangdong Provincial Science and Technology Progress Award, 2022
-</div>
-<div align="center">
-  <img src="{{ '../images/2022省奖个人.png' | relative_url }}" width="329.2" height=auto alt="2023 省奖个人">
-</div>
-<div style="font-size:16px;">
-4. Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 2 No Reference.
-</div>
-<div align="center">
-  <img src="{{ '../images/2022NTIRE22-NoRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-NoRef">
-</div>
-<div style="font-size:16px;">
-5. Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 1 Full Reference.
-</div>
-<div align="center">
-  <img src="{{ '../images/2022NTIRE22-fullRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-fullRef">
-</div>
-<div style="font-size:16px;">
-6. 2021 年度深圳市科技进步奖（个人）</li>
-   Shenzhen Science and Technology Progress Award (Individual), 2021
-</div>
-<div align="center">
-  <img src="{{ '../images/2021市科技奖-个人.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-个人">
-</div>
-<div style="font-size:16px;">
-7. 2021 年度深圳市科技进步奖（单位）</li>
-   Shenzhen Science and Technology Progress Award (Organization), 2021
-</div>
-<div align="center">
-  <img src="{{ '../images/2021市科技奖-单位.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-单位">
-</div>
-<div style="font-size:16px;">
-8. 2020 年度吴文俊人工智能科学技术奖，科技进步奖一等奖</li>
-   Wu Wenjun Artificial Intelligence Science and Technology Award – Science and Technology Progress Award (First Prize), 2020
-</div>
-<div align="center">
-  <img src="{{ '../images/2020吴文俊一等奖.jpg' | relative_url }}" width="329.2" height=auto alt="2020吴文俊一等奖">
-</div>
+  <ol>
+    <li>2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.</li>
+    <div align="center">
+      <img src="{{ '../images/NeurIPS Best Paper Runner-up.png' | relative_url }}" width="329.2" height="256" alt="NeurIPS Best Paper Runner-up">
+    </div>
+    <li>2023 ICCV Win the 1ST PLACE AWARD in the Referring Video Object Segmentation Track, 5th Large-Scale Video Object Segmentation Challenge.</li>
+    <div align="center">
+      <img src="{{ '../images/2023ICCV.png' | relative_url }}" width="329.2" height=auto alt="2023 ICCV">
+    </div>
+    <li>2022 年度广东省科技进步奖一等奖<br>
+    First Prize, Guangdong Provincial Science and Technology Progress Award, 2022</li>
+    <div align="center">
+      <img src="{{ '../images/2022省奖个人.png' | relative_url }}" width="329.2" height=auto alt="2023 省奖个人">
+    </div>
+    <li>Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 2 No Reference.</li>
+    <div align="center">
+      <img src="{{ '../images/2022NTIRE22-NoRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-NoRef">
+    </div>
+    <li>Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 1 Full Reference.</li>
+    <div align="center">
+      <img src="{{ '../images/2022NTIRE22-fullRef.jpg' | relative_url }}" width="329.2" height=auto alt="2022NTIRE22-fullRef">
+    </div>
+    <li>2021 年度深圳市科技进步奖（个人）<br>
+    Shenzhen Science and Technology Progress Award (Individual), 2021</li>
+    <div align="center">
+      <img src="{{ '../images/2021市科技奖-个人.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-个人">
+    </div>
+    <li>2021 年度深圳市科技进步奖（单位）<br>
+    Shenzhen Science and Technology Progress Award (Organization), 2021</li>
+    <div align="center">
+      <img src="{{ '../images/2021市科技奖-单位.jpg' | relative_url }}" width="329.2" height=auto alt="2021市科技奖-单位">
+    </div>
+    <li>2020 年度吴文俊人工智能科学技术奖，科技进步奖一等奖<br>
+    Wu Wenjun Artificial Intelligence Science and Technology Award – Science and Technology Progress Award (First Prize), 2020</li>
+    <div align="center">
+      <img src="{{ '../images/2020吴文俊一等奖.jpg' | relative_url }}" width="329.2" height=auto alt="2020吴文俊一等奖">
+    </div>
 
 
 📕 Publications
@@ -240,7 +226,7 @@ redirect_from:
 
 **Before 2018**
 <div style="font-size:16px;">
-  </ol>
+  <ol>
     <li>X. Hu, and Y. Yang, "A Method of General Acceleration SRDCF Calculation via Reintroduction of Circulant Structure", Chinese Conference on Computer Vision (CCCV), 2017.</li>
     <li>Z. Jin, Y. Yang, X. Bao, B. Huang, "Combining User-based and Global Lexicon Features for Sentiment Analysis in Twitter", International Joint Conference on Neural Networks (IJCNN), 2016.</li>
     <li>X. Shi, Z. Guo, Z. Lai, Y. Yang, Z. Bao, and D.  Zhang, "A Framework of Joint Graph Embedding and Sparse Regression for Dimensionality Reduction", IEEE Transactions on Image Processing (TIP), 2015.</li>

@@ -48,6 +48,8 @@ redirect_from:
     <div align="center">
       <img src="{{ '../images/2020吴文俊一等奖.jpg' | relative_url }}" width="329.2" height=auto alt="2020吴文俊一等奖">
     </div>
+  </ol>
+</div>
 
 
 📕 Publications

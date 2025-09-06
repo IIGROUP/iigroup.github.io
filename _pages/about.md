@@ -7,21 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-<h2>Yujiu Yang</h2>
-
+Yujiu Yang
+------
 <img src="../images/Team Leader.png" width="168" height="240" div align=right>
 Professor, PhD/Master Advisor
 <div style="font-size:16px;">
 Dr. Yujiu Yang is currently a professor at Tsinghua Shenzhen International Graduate School, Tsinghua University. He received his Ph.D. degree from the Institute of Automation, the Chinese Academy of Sciences. His research interests include Machine learning, basic research in artificial intelligence and its applications in natural language processing, visual content creation, and image understanding.
 </div>
 
-<h2>Research Interest</h2>
-
+Research Interest
+------
 <div style="font-size:16px;">
 My research interests include machine learning, basic research in artificial intelligence, and their applications in natural language processing, visual content creation, and understandin. My research goal is to utilize artificial intelligence techniques to enable machines to perceive and interact with their surrounding environment.
 </div>
 
-<h2>Awards</h2>
+Awards
+------
 <div style="font-size:16px;">
   <ul>
     <li>2024 NeurIPS Best Paper Runner-up, The Thirty-eighth Annual Conference on Neural Information Processing Systems.</li>
@@ -37,11 +38,12 @@ My research interests include machine learning, basic research in artificial int
     <li>2016 Guangdong Science and Technology Progress Award, Third Prize (Ranked 1st in the awardee list).</li>
     <li>2014 Guangdong Science and Technology Progress Award, First Prize (广东省科学技术进步奖一等奖).</li>
     <li>2015 Shenzhen Science and Technology Progress Award, Second Prize (Ranked 1st in the awardee list).</li>
-    <li>2014 Best Paper Honorable Mention, ICIST.
+    <li>2014 Best Paper Honorable Mention, ICIST.</li>
   </ul>
 </div>
 
-<h2>Academic Services</h2>
+Academic Services
+------
 <div style="font-size:16px;">
   <p><b>Guest Editor：</b></p>
   <ul>
@@ -80,7 +82,8 @@ My research interests include machine learning, basic research in artificial int
 </div>
 
 
-<h2>Grants</h2>
+Grants
+------
 <div style="font-size:16px;">
   <ul>
     <li>National Natural Science Foundation of China (61991451), On the fundamental theory and key techniques for scattering optical imaging in the marine environment, 2020-2024;</li>
@@ -92,7 +95,8 @@ My research interests include machine learning, basic research in artificial int
 </div>
 
 
-<h2>Teaching</h2>
+Teaching
+------
 <div style="font-size:16px;">
   <ul>
       <li>Teaching: Selected Topics on Intelligent Information Processing (智能信息处理专题)、Introduction to Statistical Learning Theory (统计学习理论导论)</li>

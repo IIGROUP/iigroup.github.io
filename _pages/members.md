@@ -45,7 +45,9 @@ redirect_from:
 
 👩🏻‍🎓 Students 👨🏻‍🎓
 ------
+<div style="font-size:16px;">
 Before 2020, our team members are primarily from the Department of Automation and Open Faculty for Innovation, Education, Science, Technology, and Art (Open FIESTA).  Since 2020,  our Group has been affiliated with Tsinghua Shenzhen International Graduate School (SIGS), Tsinghua University, and members are from two master's programs: Big Data Engineering and Engineering of Artificial Intelligence in Electronic Information, and two master's programs at Open FIESTA: BIO³ (Bio-Nano-Info)  and Internet + Innovation Design (IID).  
+</div>
 
 **2025**
 
@@ -427,15 +429,17 @@ Before 2020, our team members are primarily from the Department of Automation an
 
 </div>
 
-Haoze Sun: Master. Topic: Computer Vision. (2022- 2025)
+<div style="font-size:16px;">
+Haoze Sun: Master. Topic: Computer Vision. (2022- 2025)<br><br>
 
-Tianhe Wu: Master. Topic: Computer Vision. (2022- 2025)
+Tianhe Wu: Master. Topic: Computer Vision. (2022- 2025)<br><br>
 
-Jixiang Sun: Master. Topic: Computer Vision. (2022- 2025)
+Jixiang Sun: Master. Topic: Computer Vision. (2022- 2025)<br><br>
 
-Cong Wei: Master. Topic: Computer Vision. (2022- 2025)
+Cong Wei: Master. Topic: Computer Vision. (2022- 2025)<br><br>
 
 Zeming Zheng: Master. Topic: Natural Language  Processing. (2022- 2025)
+</div>
 
 
 **2021**
@@ -476,24 +480,25 @@ Zeming Zheng: Master. Topic: Natural Language  Processing. (2022- 2025)
 
 </div>
 
-Lu Tan: Master. Topic: Natural Language  Processing. (2021- 2024,  currently © Baidu)
+<div style="font-size:16px;">
+Lu Tan: Master. Topic: Natural Language  Processing. (2021- 2024,  currently © Baidu)<br><br>
 
-Yuan Gong: Master. Topic: Visual Content Creation. (2021- 2024,  currently © ByteDance)
+Yuan Gong: Master. Topic: Visual Content Creation. (2021- 2024,  currently © ByteDance)<br><br>
 
-Shanshan Lao: Master. Topic: Efficient  Neural Network. (2021- 2024,  currently © ByteDance)
+Shanshan Lao: Master. Topic: Efficient  Neural Network. (2021- 2024,  currently © ByteDance)<br><br>
 
-Hui Zhou: Master. Topic: Cross-Modal Learning. (2021- 2024,  currently © ByteDance)
+Hui Zhou: Master. Topic: Cross-Modal Learning. (2021- 2024,  currently © ByteDance)<br><br>
 
-Meiwei Luo: Master. Topic: Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)
+Meiwei Luo: Master. Topic: Image Segmentation. (2021- 2024, currently © Guangzhou Administration for Market Regulation)<br><br>
 
-Xuanzhou Liu: Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)
+Xuanzhou Liu: Master. Topic: Subgraph Representation and Classification. (2021- 2024,  currently © Alibaba)<br><br>
 
-Xinyu Zhu: Master. Topic: Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia )
+Xinyu Zhu: Master. Topic: Open-domain Dialogue Generation. (2021- 2024, currently  Ph.D student © The University of Virginia)<br><br>
 
-Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)
+Chengze Yu: Master. Topic: Keyword-based Dialogues Generation. (2021- 2024,  currently © Meituan)<br><br>
 
 Siheng Li: Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D student © CUHK)
-
+</div>
 
 **2020**
 
@@ -541,18 +546,19 @@ Siheng Li: Master. Topic: Dialogue Generation. (2021- 2024,  currently  Ph.D stu
 
 </div>
 
-Fei Yin: Master,  Big Data Engineering. Topic: Visual Representation. (2020- 2023,  currently Ph.D student © the University of Cambridge )
+<div style="font-size:16px;">
+Fei Yin: Master,  Big Data Engineering. Topic: Visual Representation. (2020- 2023,  currently Ph.D student © the University of Cambridge )<br><br>
 
-Yifan Chen: Master,  Big Data Engineering. Topic:  Low-light Image Restoration. (2020- 2023,  currently © THU)
+Yifan Chen: Master,  Big Data Engineering. Topic:  Low-light Image Restoration. (2020- 2023,  currently © THU)<br><br>
 
-Jie Gao: Master,  Engineering of Artificial Intelligence. Topic: Text Classification. (2020- 2023,  currently © Baidu)
+Jie Gao: Master,  Engineering of Artificial Intelligence. Topic: Text Classification. (2020- 2023,  currently © Baidu)<br><br>
 
-Jiayi Li:  Master,  Engineering of Artificial Intelligence. Topic:  Knowledge Graph Complete. (2020- 2023,  currently © Baidu)
+Jiayi Li:  Master,  Engineering of Artificial Intelligence. Topic:  Knowledge Graph Complete. (2020- 2023,  currently © Baidu)<br><br>
 
-Xingyu Bai: Master,  Open FIESTA. Topic: InformationExtraction. (2020- 2023,  currently © Baidu)
+Xingyu Bai: Master,  Open FIESTA. Topic: InformationExtraction. (2020- 2023,  currently © Baidu)<br><br>
 
 Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Assessment. (2020- 2023,  currently Ph.D student © the University of Tokyo )
-
+</div>
 
 **2019**
 
@@ -584,62 +590,64 @@ Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Ass
 
 </div>
 
-Mingdeng Cao: Master in Control Engineering, Department of Automation. Topic: Video Deblurring. (2019- 2022,  currently Ph.d.  at the University of Tokyo)
+<div style="font-size:16px;">
+Mingdeng Cao: Master in Control Engineering, Department of Automation. Topic: Video Deblurring. (2019- 2022,  currently Ph.d.  at the University of Tokyo)<br><br>
 
-Ran Yu:  Master in Control Engineering, Department of Automation. Topic: Video Instance Segmentation. (2019- 2022, currently at Meituan.com)
+Ran Yu:  Master in Control Engineering, Department of Automation. Topic: Video Instance Segmentation. (2019- 2022, currently at Meituan.com)<br><br>
 
-Xiang Cao: Master in Control Engineering, Department of Automation. Topic: Response Generation. (2019- 2022, currently at Tencent)
+Xiang Cao: Master in Control Engineering, Department of Automation. Topic: Response Generation. (2019- 2022, currently at Tencent)<br><br>
 
-Maoyan  Chen: Master,  Open FIESTA. Topic: Dialogue Generation. (2019- 2022, currently at Xverse.cn)
+Maoyan  Chen: Master,  Open FIESTA. Topic: Dialogue Generation. (2019- 2022, currently at Xverse.cn)<br><br>
 
-Yutong Wang: Master,  Open FIESTA. Topic: Information Extraction. (2019- 2022,  currently  Startup CEO)
+Yutong Wang: Master,  Open FIESTA. Topic: Information Extraction. (2019- 2022,  currently  Startup CEO)<br><br>
 
 Jieqiong Lei: Master,  Open FIESTA. Topic:  Medical molecular prediction. (2019- 2022, currently at Alibaba)
-
+</div>
 
 **Previous Students with Master's Degree**
+<div style="font-size:16px;">
+Shiyun Cao: Master in Control Engineering, Department of Automation. Thesis: Research and Application of Text Summarization. (2018- 2021, currently at  China Universal Asset Management)<br><br>
 
-Shiyun Cao: Master in Control Engineering, Department of Automation. Thesis: Research and Application of Text Summarization. (2018- 2021, currently at  China Universal Asset Management )
+Pengda Si: Master in Control Engineering, Department of Automation. Thesis:  Scenario-aware Modeling in Chatbot. (2018- 2021,  currently at  Kuaishou)<br><br>
 
-Pengda Si: Master in Control Engineering, Department of Automation. Thesis:  Scenario-aware Modeling in Chatbot. (2018- 2021,  currently at  Kuaishou )
+Dezheng Gong: Master in Control Engineering, Department of Automation. (2018- 2021, currently he's a civil servant)<br><br>
 
-Dezheng Gong: Master in Control Engineering, Department of Automation. (2018- 2021, currently he's a civil servant )
+Sijin Wu: Master,  Open FIESTA. Thesis: Research and Application of Question Understanding. (2018- 2021, currently at Baidu)<br><br>
 
-Sijin Wu: Master,  Open FIESTA. Thesis: Research and Application of Question Understanding. (2018- 2021, currently at Baidu )
-
-Miaomiao Yu: Master,  Open FIESTA. (2018- 2021, currently at Tencent)
-
-
-Yiru Wang: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Tencent)
-
-Tuanhui Li: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Baidu)
-
-Yunzhou Shi: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Alibaba)
-
-Lifang Ding: Master,  Open FIESTA. Thesis:  (2017-2020, currently at Alibaba)
-
-Guanqun Hou: Master,  Open FIESTA. Thesis:  (2017-2020, currently at Hikvision)
-
-Xinrui Zhuang:  Master,  Open FIESTA. Thesis:  (2017-2020, currently at Huawei)
+Miaomiao Yu: Master,  Open FIESTA. (2018- 2021, currently at Tencent)<br><br><br>
 
 
-Weihao Xia:  Master in Control Engineering,  Department of Automation.  Thesis:  Image Restoration and Image Quality Assessment via Deep Learning. (2016-2019, currently at UCL)
+Yiru Wang: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Tencent)<br><br>
 
-Wenqiang Gao:  Master in Control Engineering, Department of Automation.  Thesis:  (2016-2019, currently at Huawei)
+Tuanhui Li: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Baidu)<br><br>
 
-Zeyang Lei:  Master in Control Science and Engineering, Department of Automation.  Thesis: Sentiment Analysis Augmented with Prior Knowledge and Reading Behavior. (2016-2019, currently at Baidu)
+Yunzhou Shi: Master in Control Engineering,  Department of Automation.  Thesis:  (2017-2020, currently at Alibaba)<br><br>
+
+Lifang Ding: Master,  Open FIESTA. Thesis:  (2017-2020, currently at Alibaba)<br><br>
+
+Guanqun Hou: Master,  Open FIESTA. Thesis:  (2017-2020, currently at Hikvision)<br><br>
+
+Xinrui Zhuang:  Master,  Open FIESTA. Thesis:  (2017-2020, currently at Huawei)<br><br><br>
 
 
-Ruyi Zhang:  Master in Engineering,  Department of Automation.  Thesis:  Research on Detection Algorithm and Application of Small Object based on Deep Learning. (2015-2018, currently at Hikvision)
+Weihao Xia:  Master in Control Engineering,  Department of Automation.  Thesis:  Image Restoration and Image Quality Assessment via Deep Learning. (2016-2019, currently at UCL)<br><br>
 
-Pengcheng Zhu:  Master in Control Engineering,  Department of Automation.  Thesis:  Sentiment Analysis with Feature Design and Multi-glance Mechanism. (2015-2018, currently at Alibaba)
+Wenqiang Gao:  Master in Control Engineering, Department of Automation.  Thesis:  (2016-2019, currently at Huawei)<br><br>
 
-Xiaoxiang Hu:  Master in Control Science and Engineering,  Department of Automation.  Thesis: Research on the Visual Object Tracking based on Correlation Filter. (2015-2018, currently at DJI)
+Zeyang Lei:  Master in Control Science and Engineering, Department of Automation.  Thesis: Sentiment Analysis Augmented with Prior Knowledge and Reading Behavior. (2016-2019, currently at Baidu)<br><br><br>
 
 
-Xu Huang: Master in Control  Engineering,  Department of Automation. (2014-2017, currently at Pinduoduo))
+Ruyi Zhang:  Master in Engineering,  Department of Automation.  Thesis:  Research on Detection Algorithm and Application of Small Object based on Deep Learning. (2015-2018, currently at Hikvision)<br><br>
+
+Pengcheng Zhu:  Master in Control Engineering,  Department of Automation.  Thesis:  Sentiment Analysis with Feature Design and Multi-glance Mechanism. (2015-2018, currently at Alibaba)<br><br>
+
+Xiaoxiang Hu:  Master in Control Science and Engineering,  Department of Automation.  Thesis: Research on the Visual Object Tracking based on Correlation Filter. (2015-2018, currently at DJI)<br><br><br>
+
+
+Xu Huang: Master in Control  Engineering,  Department of Automation. (2014-2017, currently at Pinduoduo)<br><br>
 
 Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2017, currently at Netease)
+</div>
 
 
 👩🏻‍💻 Research Assistant and Visiting Scholar 👨🏻‍💻

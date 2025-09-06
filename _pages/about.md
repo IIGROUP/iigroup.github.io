@@ -43,28 +43,26 @@ Awards
   </ul>
 </div>
 
+
 Academic Services
 ------
-**Guest Editor：**
 <div style="font-size:16px;">
+  <p><b>Guest Editor：</b></p>
   <ul>
     <li>Neurocomputing</li>
   </ul>
-</div>
 
-**Conference Chair：**
-<div style="font-size:16px;">
+  <p><b>Conference Chair：</b></p>
   <ul>
     <li>The Third International Conference on Cognitive Computing (ICCC 2020)</li>
     <li>International Conference on AI and Mobile Services (AIMS 2019)</li>
     <li>The 16th International Conference on Bioinformatics</li>
   </ul>
-</div>
 
-**Reviewer:**
-<div style="font-size:16px;">
-    <p><b>Conference:</b></p>
-    <ul>
+  <p><b>Reviewer：</b></p>
+  <ul>
+    <li>Conference
+      <ul>
         <li>CVPR</li>
         <li>ICCV</li>
         <li>ACL</li>
@@ -72,16 +70,19 @@ Academic Services
         <li>AAAI</li>
         <li>NeurIPS</li>
         <li>...</li>
-    </ul>
-
-    <p><b>Journal:</b></p>
-    <ul>
+      </ul>
+    </li>
+    <li>Journal
+      <ul>
         <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
         <li>IEEE Transactions on Image Processing (TIP)</li>
         <li>IEEE Transactions on Multimedia (TMM)</li>
         <li>...</li>
-    </ul>
+      </ul>
+    </li>
+  </ul>
 </div>
+
 
 Grants
 ------

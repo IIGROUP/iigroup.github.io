@@ -24,6 +24,7 @@ redirect_from:
 <div style="font-size:14px;">
 
 1.	[CV] Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, Jiahao Wang, Yitong Wang, Yansong Tang, Yujiu Yang. “Learning High-Quality Dynamic Memory for Video Object Segmentation.” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, doi: 10.1109/TPAMI.2025.3532306,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/abstract/document/10848350" target="_blank">[PDF]</a>
+
 2.	[CV] Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang. “Generalizable BlackBox Adversarial Attack With Meta Learning.” IEEE Transactions on Pattern Analysis and Machine Intelligence
 (TPAMI), vol:46(3), 1804-1818,2024 (SCI Q1 IF=23.6) <a href="https://ieeexplore.ieee.org/document/10017370" target="_blank">[PDF]</a>
 3.	[CV] Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang. “GAN Inversion: A

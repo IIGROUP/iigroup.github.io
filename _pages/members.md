@@ -645,6 +645,15 @@ Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2
 👩🏻‍💻 Research Assistant and Visiting Scholar 👨🏻‍💻
 ------
 <div class="people-grid no-divider">
+
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/xiaweihao.png' | relative_url }}" alt="Weihao Xia">
+    <div class="person-info">
+      <a href="https://www.cst.cam.ac.uk/people/wx258" target="_blank" class="person-name">Weihao Xia</a>
+      <p class="person-area">Research Assistant (currently postdoctoral researcher at University of Cambridge, UK)</p>
+    </div>
+  </div>
+  
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/yukejin.png' | relative_url }}" alt="Kejin Yu">
     <div class="person-info">
@@ -654,5 +663,3 @@ Weiqiang Yuan: Master in Control Engineering,  Department of Automation. (2014-2
   </div>
 
 </div>
-
-Weihao Xia: Research Assistant (currently PhD at UCL, UK)

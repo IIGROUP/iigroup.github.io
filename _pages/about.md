@@ -90,7 +90,7 @@ Grants
     <li>National Natural Science Foundation of China (U1903213), Research on key technologies of abnormal event robustness detection based on multimodality cooperation of audio and video, 2019-2023;</li>
     <li>The National Key Research and Development Program of China (No.2018YFB1601102), Ultra-large-scale wide-area spatio-temporal transportation knowledge aggregation, 2019-2022;</li>
     <li>The National Key Research and Development Program of China (No.2020YFB1708200), Domain knowledge graph and product design method based on multi-source heterogeneous information, 2020-2023;</li>
-    <li>The National Key Research and Development Program of China (No.2024YFB2808903), High-performance 3D scene semantics, user behavior understanding, and collaborative interaction for cyber-physical fusion mobile terminals, 2024.12-2027.11;</li>
+    <li>The National Key Research and Development Program of China (No.2024YFB2808903), High-performance 3D scene semantics, user behavior understanding, and collaborative interaction for cyber-physical fusion mobile terminals, 2024.12-2027.11.</li>
   </ul>
 </div>
 

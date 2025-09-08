@@ -220,7 +220,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Yang Ding">
+    <img class="person-photo" src="{{ '../images/members image/dingyang.png' | relative_url }}" alt="Yang Ding">
     <div class="person-info">
       <a href="https://zsgvivo.github.io/" target="_blank" class="person-name">Yang Ding</a>
       <p class="person-area">Master. Topic: Natural Language  Processing. (2024- Now)</p>

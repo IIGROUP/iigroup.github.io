@@ -62,7 +62,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="{{ '../images/person1.png' | relative_url }}" alt="Tianhang Yang">
+    <img class="person-photo" src="{{ '../images/members image/yangtianhang.png' | relative_url }}" alt="Tianhang Yang">
     <div class="person-info">
       <span class="person-name">Tianhang Yang</span>
       <p class="person-area">PhD. (2025- Now)</p>

@@ -14,8 +14,8 @@ main:
   - title: "PUBLICATIONS"
     url: /publications/    
 
-  # - title: "AWARDS"
-  #   url: /awards/    
+  - title: "AWARDS"
+    url: /awards/    
     
   # - title: "COLLABORATORS"
   #   url: /collaborators/

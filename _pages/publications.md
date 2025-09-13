@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /research.html
+  - /publications.html
 ---
 
 

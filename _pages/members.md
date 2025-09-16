@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members"
+title: "👥 Members"
 permalink: /members/
 author_profile: true
 redirect_from:
@@ -104,7 +104,7 @@ Before 2020, our team members are primarily from the Department of Automation an
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/zhangruixu.png' | relative_url }}" alt="Ruixu Zhang">
     <div class="person-info">
-      <a href="https://orcid.org/0009-0004-9985-0204" target="_blank" class="person-name">Ruixu Zhang</a>
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=GI97s9QAAAAJ" target="_blank" class="person-name">Ruixu Zhang</a>
       <p class="person-area">Master. (2025- Now)</p>
     </div>
   </div>

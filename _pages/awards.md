@@ -56,6 +56,36 @@ redirect_from:
 
   <div class="award-card">
     <div class="award-text">
+      Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 2 No Reference.
+    </div>
+    <img src="{{ '../images/2022NTIRE22-NoRef.jpg' | relative_url }}" alt="2022NTIRE22-NoRef">
+  </div>
+
+  <div class="award-card">
+    <div class="award-text">
+      Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 1 Full Reference.
+    </div>
+    <img src="{{ '../images/2022NTIRE22-fullRef.jpg' | relative_url }}" alt="2022NTIRE22-fullRef">
+  </div>
+
+  <div class="award-card">
+    <div class="award-text">
+      2021 年度深圳市科技进步奖（个人）<br>
+      Shenzhen Science and Technology Progress Award (Individual), 2021
+    </div>
+    <img src="{{ '../images/2021市科技奖-个人.jpg' | relative_url }}" alt="2021市科技奖-个人">
+  </div>
+
+  <div class="award-card">
+    <div class="award-text">
+      2021 年度深圳市科技进步奖（单位）<br>
+      Shenzhen Science and Technology Progress Award (Organization), 2021
+    </div>
+    <img src="{{ '../images/2021市科技奖-单位.jpg' | relative_url }}" alt="2021市科技奖-单位">
+  </div>
+
+  <div class="award-card">
+    <div class="award-text">
       2022 年度广东省科技进步奖一等奖<br>
       First Prize, Guangdong Provincial Science and Technology Progress Award, 2022
     </div>
@@ -64,14 +94,14 @@ redirect_from:
 
   <div class="award-card">
     <div class="award-text">
-      Winner Award in NTIRE 2022 Challenge on Perceptual Image Quality Assessment Track 2 No Reference.
+      2020 年度吴文俊人工智能科学技术奖，科技进步奖一等奖<br>
+      Wu Wenjun Artificial Intelligence Science and Technology Award – Science and Technology Progress Award (First Prize), 2020
     </div>
-    <img src="{{ '../images/2022NTIRE22-NoRef.jpg' | relative_url }}" alt="2022NTIRE22-NoRef">
+    <img src="{{ '../images/2020吴文俊一等奖.jpg' | relative_url }}" alt="2020吴文俊一等奖">
   </div>
 
-  <!-- 其余奖项同理写成 award-card -->
-
 </div>
+
 
 <!-- <div style="font-size:16px;">
   <ol>

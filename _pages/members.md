@@ -427,12 +427,18 @@ Before 2020, our team members are primarily from the Department of Automation an
     </div>
   </div>
 
+  <div class="person-card">
+    <img class="person-photo" src="{{ '../images/members image/wutianhe.png' | relative_url }}" alt="Tianhe Wu">
+    <div class="person-info">
+      <a href="https://tianhewu.github.io/tianhe-page/" target="_blank" class="person-name">Tianhe Wu</a>
+      <p class="person-area">Master. Topic: Computer Vision. (2022- 2025)</p>
+    </div>
+  </div>
+
 </div>
 
 <div style="font-size:16px;">
 Haoze Sun: Master. Topic: Computer Vision. (2022- 2025)<br>
-
-Tianhe Wu: Master. Topic: Computer Vision. (2022- 2025)<br>
 
 Jixiang Sun: Master. Topic: Computer Vision. (2022- 2025)<br>
 
@@ -583,7 +589,7 @@ Shuwei Shi: Master,  Open FIESTA. Topic: Image Enhancement and Image Quality Ass
   <div class="person-card">
     <img class="person-photo" src="{{ '../images/members image/tianchenyu.png' | relative_url }}" alt="Chenyu Tian">
     <div class="person-info">
-      <a href="https://www.zhihu.com/people/wang-jia-hao-hku" target="_blank" class="person-name">Chenyu Tian</a>
+      <a href="https://scholar.google.com/citations?user=wJm1tisAAAAJ&hl=en&oi=ao" target="_blank" class="person-name">Chenyu Tian</a>
       <p class="person-area">Master, Open FIESTA. Topic: Image Segmentation and Pose Estimation. (2019- 2022,  currently at Hulu.com)</p>
     </div>
   </div>
@@ -608,11 +614,11 @@ Jieqiong Lei: Master,  Open FIESTA. Topic:  Medical molecular prediction. (2019-
 <div style="font-size:16px;">
 Shiyun Cao: Master in Control Engineering, Department of Automation. Thesis: Research and Application of Text Summarization. (2018- 2021, currently at  China Universal Asset Management)<br>
 
-Pengda Si: Master in Control Engineering, Department of Automation. Thesis:  Scenario-aware Modeling in Chatbot. (2018- 2021,  currently at  Kuaishou)<br>
+Pengda Si: Master in Control Engineering, Department of Automation. Thesis:  Scenario-aware Modeling in Chatbot. (2018- 2021,  currently © ByteDance)<br>
 
 Dezheng Gong: Master in Control Engineering, Department of Automation. (2018- 2021, currently he's a civil servant)<br>
 
-Sijin Wu: Master,  Open FIESTA. Thesis: Research and Application of Question Understanding. (2018- 2021, currently at Baidu)<br>
+Sijin Wu: Master,  Open FIESTA. Thesis: Research and Application of Question Understanding. (2018- 2021, currently © ByteDance)<br>
 
 Miaomiao Yu: Master,  Open FIESTA. (2018- 2021, currently at Tencent)<br><br>
 

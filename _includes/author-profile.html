@@ -65,6 +65,18 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus ai-fw icon-pad-right"></i>Scopus</a></li>
       {% endif %}
+      {% if author.huggingface %}
+        <!-- <li><a href="{{ author.huggingface }}"><i class="fab fa-fw fa-github icon-pad-right"></i>Hugging Face</a></li> -->
+        <li>
+          <a href="author.huggingface }}" target="_blank">
+            <img src="{{ '/assets/images/huggingface-color.svg' | relative_url }}"
+                 alt="Hugging Face"
+                 class="icon-pad-right"
+                 style="width:20px; height:20px; vertical-align:middle;">
+            Hugging Face
+          </a>
+        </li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}

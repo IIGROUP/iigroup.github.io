@@ -23,8 +23,7 @@ News
 ------
 <div style="
     font-size:16px;
-    width: 100%;
-    max-width: 600px;   /* 卡片最大宽度，可按需调整 */
+    width: 100%;        /* 卡片最大宽度，可按需调整 */
     height: 500px;      /* 固定高度 */
     overflow-y: auto;   /* 竖向滚动 */
     padding: 15px;

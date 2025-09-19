@@ -10,9 +10,14 @@ redirect_from:
 Lab Introduction
 ------
 <div style="font-size:16px;">
-The Intelligent Interaction Group (IIGROUP) is affiliated with Tsinghua Shenzhen International Graduate School, Tsinghua University. Our vision is to build intelligent systems that can interact with humans.  
-<br><br>
-Our current interests in intelligent interactive tasks include pre-training and post-training optimization techniques for large language models, reasoning, multimodal understanding and analysis, and generative AI technology. With applications including computer vision, natural language processing, AI safety, ML interpretability • and others.
+Affiliated with the <b>Tsinghua Shenzhen International Graduate School, Tsinghua University</b>, the <b>Intelligent Interaction Group (IIGROUP)</b> is led by Professor Yujiu Yang. Our group is dedicated to advancing the frontiers of artificial intelligence under the motto: <b>"More intelligent, more interactive."</b><br><br>
+Our research interests are broad and foundational, encompassing the full stack of modern AI. We focus on four primary pillars:
+    <ol>
+        <li>Fundamental AI Methods, including large-scale model training, deep learning algorithms, interpretability, and AI safety;</li>
+        <li>Perception & World Modeling, with an emphasis on natural language processing, vision & spatiotemporal analysis, and multimodal intelligence;</li>
+        <li>Reasoning & Generation, where we explore controllable generation systems, generative content creation, and deep reasoning;</li>
+        <li>Action & Interaction, which investigates embodied AI agents and human-centric AI.</li>
+    </ol>
 </div>
 
 Research Areas
